@@ -1,0 +1,2007 @@
+26
+temp: 5 Cools: 0.01 lengths: 1000 num non reps: 1000000
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 78820636[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 146618[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 126353[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 126231[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 112935[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 110590[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 112666[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 114146[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 131895[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 115277[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 1000 num non reps: 10000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 105753[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 98719[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 100666[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 102372[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 105578[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 109785[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 102221[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 103777[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 102055[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 99792[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 1000 num non reps: 100000000
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 99388[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 103809[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 100995[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 99692[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 104917[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 101116[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 100501[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 104836[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 104114[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 106142[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 1000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 13874[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9686[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9798[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9580[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9716[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9335[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9879[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9698[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9222[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9392[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 10000 num non reps: 1000000
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 917497[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 941227[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 939163[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 929265[탎]
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 925564[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 927993[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 922119[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 940018[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 906731[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 942529[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 10000 num non reps: 10000000
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 933236[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 945221[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 932677[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 934529[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 910440[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 941126[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 957944[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 932849[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 922742[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 925031[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 10000 num non reps: 100000000
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 932959[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 929915[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 1005616[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 867787[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 861579[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 847335[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 851593[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 847979[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 854616[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 851483[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 10000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 9191[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9428[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9185[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8850[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9383[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9344[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8866[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8895[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9274[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 10509[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 100000 num non reps: 1000000
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 1271130[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1817255[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1222093[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1762568[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1700678[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2264146[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1471122[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1272733[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1948264[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 1456493[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 100000 num non reps: 10000000
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 8093772[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 8394598[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 8203547[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 8291335[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 8205819[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 8176743[탎]
+number correct pairs: 14
+Evaluation score: 0.56
+Took: 8134699[탎]
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 8308596[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 8782309[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 8174321[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 100000 num non reps: 100000000
+number correct pairs: 14
+Evaluation score: 0.56
+Took: 8162235[탎]
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 8357511[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 8623425[탎]
+number correct pairs: 14
+Evaluation score: 0.56
+Took: 8389399[탎]
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 8899682[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 8359883[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 8730425[탎]
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 8854432[탎]
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 8156237[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 8256297[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 100000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 8402[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8483[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8637[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8449[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9901[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9128[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9145[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8324[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9592[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8853[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 1000000 num non reps: 1000000
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 5841048[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1611470[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1610793[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 3256681[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2580092[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1620290[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1606188[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 2427258[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1723649[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1625141[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 1000000 num non reps: 10000000
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 14750672[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 17941351[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 24979551[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 10653983[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 13161118[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 16205199[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 23066012[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 25777378[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 19897954[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 18583531[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 1000000 num non reps: 100000000
+number correct pairs: 20
+Evaluation score: 0.8
+Took: 85749871[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 92485680[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 86616132[탎]
+number correct pairs: 19
+Evaluation score: 0.76
+Took: 95197900[탎]
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 87595295[탎]
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 84024933[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 83293950[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 85092478[탎]
+number correct pairs: 20
+Evaluation score: 0.8
+Took: 82602744[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 88202526[탎]
+Average score: 0
+temp: 5 Cools: 0.01 lengths: 1000000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 9543[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9833[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9424[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9679[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9260[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8973[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8939[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8901[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8927[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8883[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000 num non reps: 1000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1874322[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 2278902[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2051144[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 907147[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1585552[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1459294[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1066884[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2354245[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2842832[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2354551[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000 num non reps: 10000000
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 10003766[탎]
+number correct pairs: 19
+Evaluation score: 0.76
+Took: 10000746[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 10569326[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 9337349[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 9726239[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 10117242[탎]
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 8984945[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 8375938[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 8892234[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 9701480[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000 num non reps: 100000000
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 9782002[탎]
+number correct pairs: 19
+Evaluation score: 0.76
+Took: 9231860[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 9944387[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 9579140[탎]
+number correct pairs: 16
+Evaluation score: 0.64
+Took: 9098592[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 10245703[탎]
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 8974128[탎]
+number correct pairs: 13
+Evaluation score: 0.52
+Took: 9883388[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 9482778[탎]
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 9856652[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 9532[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 10979[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9195[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8825[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9171[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 10911[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8995[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9122[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8812[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9854[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 10000 num non reps: 1000000
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 997631[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 3501496[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1159493[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2488515[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1668906[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1043409[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 1760103[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1498533[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1125392[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1135568[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 10000 num non reps: 10000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 12899455[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 9147577[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 19609226[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 16490328[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 11497662[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 9438131[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 11530524[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 11427954[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 8554848[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 16194224[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 10000 num non reps: 100000000
+number correct pairs: 22
+Evaluation score: 0.88
+Took: 93474080[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 101763663[탎]
+number correct pairs: 19
+Evaluation score: 0.76
+Took: 101792266[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 103226195[탎]
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 103834641[탎]
+number correct pairs: 19
+Evaluation score: 0.76
+Took: 101977253[탎]
+number correct pairs: 17
+Evaluation score: 0.68
+Took: 102296871[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 102069547[탎]
+number correct pairs: 20
+Evaluation score: 0.8
+Took: 101389295[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 88146380[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 10000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 9794[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9037[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8836[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9617[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8882[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9099[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8828[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 11409[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9055[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9367[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 100000 num non reps: 1000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1778340[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1908287[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1842452[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 961633[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2081911[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1731206[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2279374[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1160889[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2424659[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1005910[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 100000 num non reps: 10000000
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 21702032[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 9853754[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 21832542[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 12450067[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 20538172[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 21911842[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 10754978[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 30713517[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 11558284[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 11245147[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 100000 num non reps: 100000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 100332095[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 178433282[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 103750776[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 95718368[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 126020158[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 180004008[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 91606631[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 289005996[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 86724098[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 117096481[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 100000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 7880[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9189[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7875[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8614[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9113[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7882[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8649[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7907[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8506[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 12460[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000000 num non reps: 1000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1557118[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 3046905[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1539247[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2294992[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1543326[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2321192[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2316185[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1537472[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 2286164[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2322336[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000000 num non reps: 10000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 9997407[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 11525461[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 13098945[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 8480119[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 8501188[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 11531213[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 8445698[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 27002392[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 16888693[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 16151740[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000000 num non reps: 100000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 204009090[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 111334644[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 177211280[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 104057480[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 88671482[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 89597388[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 421052716[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 165860280[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 141096390[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 125254683[탎]
+Average score: 0
+temp: 5 Cools: 0.0001 lengths: 1000000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 8049[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8367[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8288[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8148[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8377[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8612[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9365[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8353[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9160[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8126[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000 num non reps: 1000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1539651[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 1733525[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2174135[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1820862[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2329690[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1227154[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1371944[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2324507[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2089540[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1546884[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000 num non reps: 10000000
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 11105072[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 8213485[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 13982813[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 13907748[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 13595505[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 10600819[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 12495086[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 11051903[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 16454190[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 16232746[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000 num non reps: 100000000
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 76849700[탎]
+number correct pairs: 20
+Evaluation score: 0.8
+Took: 76441121[탎]
+number correct pairs: 15
+Evaluation score: 0.6
+Took: 76346456[탎]
+number correct pairs: 19
+Evaluation score: 0.76
+Took: 76332038[탎]
+number correct pairs: 19
+Evaluation score: 0.76
+Took: 76682133[탎]
+number correct pairs: 20
+Evaluation score: 0.8
+Took: 80414222[탎]
+number correct pairs: 18
+Evaluation score: 0.72
+Took: 76426980[탎]
+number correct pairs: 20
+Evaluation score: 0.8
+Took: 76919482[탎]
+number correct pairs: 20
+Evaluation score: 0.8
+Took: 76755306[탎]
+number correct pairs: 21
+Evaluation score: 0.84
+Took: 76441365[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 7907[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7877[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8759[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8245[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8609[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7882[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8903[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7883[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8849[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8006[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 10000 num non reps: 1000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 995928[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1589105[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1265288[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1808840[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 858984[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1594117[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1549242[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 981598[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2050094[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1501638[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 10000 num non reps: 10000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 10523672[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 14117446[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 10400293[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 15628865[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 17094236[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 10267383[탎]
+number correct pairs: 12
+Evaluation score: 0.48
+Took: 8393171[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 16047397[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 19081638[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 14948062[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 10000 num non reps: 100000000
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 230413938[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 26289399424[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 110835997[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 126148904[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 170569705[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 87552476[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 108057652[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 115223141[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 191343097[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 92688769[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 10000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 8152[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8039[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8209[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8343[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8582[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7889[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8620[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7875[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8253[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7880[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 100000 num non reps: 1000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1604765[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 2233560[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1629994[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1176559[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1394099[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 861191[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 2237390[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 853348[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1322527[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1156479[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 100000 num non reps: 10000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 22185282[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 15921758[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 12048419[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 9294712[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 8517921[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 13611520[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 11078198[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 12681685[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 14305626[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 9594575[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 100000 num non reps: 100000000
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 151429821[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 133895734[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 231942062[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 104134637[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 137050037[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 161330071[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 107517939[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 190357306[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 134176391[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 90555331[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 100000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 8435[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8589[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8366[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7956[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8488[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9142[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8992[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8201[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9009[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8982[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000000 num non reps: 1000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 3106610[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1536574[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1539967[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 2345123[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1559197[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1541438[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1539637[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2296380[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 3066142[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 2298074[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000000 num non reps: 10000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 18496123[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 15299270[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 20674758[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 18358926[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 9951978[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 8409913[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 9195125[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 8447640[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 18345752[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 10400122[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000000 num non reps: 100000000
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 186259432[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 245485556[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 181961476[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 207544718[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 96527000[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 91774424[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 84924882[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 109539965[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 1265325024[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 277730409[탎]
+Average score: 0
+temp: 5 Cools: 1e-05 lengths: 1000000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 7972[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8876[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8480[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7887[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8597[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8036[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8474[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7920[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8223[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7929[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 1000 num non reps: 1000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1953725[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1528292[탎]
+number correct pairs: 4
+Evaluation score: 0.16
+Took: 1153306[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1437136[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1193464[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1584272[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1198627[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 934567[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 1244411[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1186457[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 1000 num non reps: 10000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 8874218[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 8502599[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 13675156[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 12453508[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 11293150[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 20068991[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 8435428[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 11979604[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 15765761[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 12999157[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 1000 num non reps: 100000000
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 196211829[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 80602510[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 182072417[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 133112432[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 155929965[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 78092494[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 151291678[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 166938973[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 78443252[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 86679385[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 1000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 7888[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8856[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9378[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 24623[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 12221[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7910[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9064[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8030[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9062[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7879[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 10000 num non reps: 1000000
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 889165[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 1651147[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 957981[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2191601[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 907279[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 1090496[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 2744318[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1787182[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 2193594[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 949119[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 10000 num non reps: 10000000
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 7908413[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 10654768[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 28380830392[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 21287442[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 140951595[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 26029908[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 21078626[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 20540356[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 15260206[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 23455904[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 10000 num non reps: 100000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 108146400[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 112425325[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 253972434[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 115136074[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 105529020[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 165424411[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 172397304[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 123707344[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 134004631[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 198158417[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 10000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 9417[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8104[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8460[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8023[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7881[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8971[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8009[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 9127[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8326[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8149[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 100000 num non reps: 1000000
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1374975[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1716304[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1923797[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1007523[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1554813[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1881680[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 2074240[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 1633562[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 998121[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 1023452[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 100000 num non reps: 10000000
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 21925827[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 16539520[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 17133764[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 8004512[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 12427678[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 8360999[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 14957033[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 11661336[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 9057693[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 13181388[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 100000 num non reps: 100000000
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 200262778[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 104564688[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 250113307[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 126600800[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 179999587[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 113637614[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 1138746602[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 98934859[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 157035247[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 114476650[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 100000 num non reps: -727379968
+number correct pairs: 0
+Evaluation score: 0
+Took: 8339[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8388[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8292[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8526[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8316[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8293[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8080[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8341[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 7957[탎]
+number correct pairs: 0
+Evaluation score: 0
+Took: 8334[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 1000000 num non reps: 1000000
+number correct pairs: 4
+Evaluation score: 0.16
+Took: 1549253[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 3066346[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 3088192[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2301563[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 1541341[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 2294412[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 3098548[탎]
+number correct pairs: 7
+Evaluation score: 0.28
+Took: 1540962[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 1553870[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 1560210[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 1000000 num non reps: 10000000
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 11507782[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 18624591[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 12333764[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 13878779[탎]
+number correct pairs: 5
+Evaluation score: 0.2
+Took: 10761265[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 15380793[탎]
+number correct pairs: 6
+Evaluation score: 0.24
+Took: 8511554[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 19623779[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 10083973[탎]
+number correct pairs: 9
+Evaluation score: 0.36
+Took: 9309163[탎]
+Average score: 0
+temp: 5 Cools: 1e-06 lengths: 1000000 num non reps: 100000000
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 251932850[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 292786507[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 78416701[탎]
+number correct pairs: 11
+Evaluation score: 0.44
+Took: 131785838[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 105038210[탎]
+number correct pairs: 10
+Evaluation score: 0.4
+Took: 128652071[탎]
+number correct pairs: 8
+Evaluation score: 0.32
+Took: 125253544[탎]

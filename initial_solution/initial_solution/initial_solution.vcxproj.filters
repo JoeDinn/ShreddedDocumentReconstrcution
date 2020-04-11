@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Similarity">
+      <UniqueIdentifier>{bcea3e57-3a32-48f3-8ef1-208513b821ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Similarity\Source Files">
+      <UniqueIdentifier>{a911bdd9-136b-4293-b62b-382f8e7706e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Similarity\Header Files">
+      <UniqueIdentifier>{cf613e59-b3f0-46cb-b2a2-109cda7173af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Optimiser">
+      <UniqueIdentifier>{6ac44b8d-3ab2-47ad-b64f-90e22c5b45a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Optimiser\Header Files">
+      <UniqueIdentifier>{ba8e93bc-f7a5-4bd7-a986-e5c1aba5bce9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Optimiser\Source Files">
+      <UniqueIdentifier>{3175a754-31ae-4492-ba0c-6f98753cfe5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{0f4d89f3-001c-4918-b51f-811f941b4398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other\Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Other\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Metric">
+      <UniqueIdentifier>{97bf96a5-289c-4b7a-b0d8-1763b065f2fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Metric\Header Files">
+      <UniqueIdentifier>{e76f9680-2b98-46ec-8d2c-70e0df0d7e2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Metric\Source Files">
+      <UniqueIdentifier>{60ab944b-973a-448e-852e-5974057c323d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Filter">
+      <UniqueIdentifier>{1499c3cd-1dd2-4519-86a4-07efe555ddaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Filter\Header Files">
+      <UniqueIdentifier>{73d06fe8-95dc-4601-b5a2-4680b21e4569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Filter\Source Files">
+      <UniqueIdentifier>{0a892455-9c08-4380-b079-f1d088831637}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Libraries">
+      <UniqueIdentifier>{46e6cd8b-2aa8-4cde-b97c-83e216b8796f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Libraries\Haralick">
+      <UniqueIdentifier>{2f0e96d4-b677-45f4-9696-19694e57dae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Libraries\Alglib">
+      <UniqueIdentifier>{94ba6a41-12e8-4c89-86d8-b373b6fbc35b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Libraries\Alglib\Header Files">
+      <UniqueIdentifier>{a71e9fc3-d13d-46ce-b084-c64d9e5518a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Libraries\Alglib\Source Files">
+      <UniqueIdentifier>{d2c35007-048c-4fed-bc13-d7a8bfaba9a3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fragment.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Similarity.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimAneal.h">
+      <Filter>Optimiser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Optimiser.h">
+      <Filter>Optimiser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OCRCharacter.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hungarian.h">
+      <Filter>Optimiser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EdgeDistance.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Greedy.h">
+      <Filter>Optimiser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Metric.h">
+      <Filter>Metric\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="neighbour_comparison.h">
+      <Filter>Metric\Header Files</Filter>
+    </ClInclude>
+<<<<<<< Updated upstream
+=======
+    <ClInclude Include="BestHeightEdgeDistance.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimilarityTester.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BWBHED.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalisedCorrelation.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OCRLine.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Filter.h">
+      <Filter>Filter\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Haralick.h">
+      <Filter>Filter\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LinearRegressionSimilarity.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\alglibinternal.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\alglibmisc.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\ap.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\dataanalysis.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\diffequations.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\fasttransforms.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\integration.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\interpolation.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\linalg.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\optimization.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\statistics.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\solvers.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alglib\specialfunctions.h">
+      <Filter>Libraries\Alglib\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="haralick_feat.h">
+      <Filter>Libraries\Haralick</Filter>
+    </ClInclude>
+    <ClInclude Include="LBP.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OCRNormCorr.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tester.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tabu.h">
+      <Filter>Optimiser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Groups.h">
+      <Filter>Metric\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution.h">
+      <Filter>Other\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OCRTemplate.h">
+      <Filter>Similarity\Header Files</Filter>
+    </ClInclude>
+>>>>>>> Stashed changes
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fragment.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utilities.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EdgeDistance.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OCRCharacter.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Similarity.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy.cpp">
+      <Filter>Optimiser\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hungarian.cpp">
+      <Filter>Optimiser\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimAneal.cpp">
+      <Filter>Optimiser\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Metric.cpp">
+      <Filter>Metric\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="neighbour_comparison.cpp">
+      <Filter>Metric\Source Files</Filter>
+    </ClCompile>
+<<<<<<< Updated upstream
+=======
+    <ClCompile Include="BestHeightEdgeDistance.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimilarityTester.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BWBHED.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalisedCorrelation.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OCRLine.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>Filter\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Haralick.cpp">
+      <Filter>Filter\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearRegressionSimilarity.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\alglibinternal.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\alglibmisc.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\ap.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\dataanalysis.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\diffequations.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\fasttransforms.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\integration.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\interpolation.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\linalg.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\optimization.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\solvers.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\specialfunctions.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="alglib\statistics.cpp">
+      <Filter>Libraries\Alglib\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LBP.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OCRNormCorr.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tester.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tabu.cpp">
+      <Filter>Optimiser\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Groups.cpp">
+      <Filter>Metric\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Optimiser.cpp">
+      <Filter>Optimiser\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution.cpp">
+      <Filter>Other\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OCRTemplate.cpp">
+      <Filter>Similarity\Source Files</Filter>
+    </ClCompile>
+>>>>>>> Stashed changes
+  </ItemGroup>
+</Project>

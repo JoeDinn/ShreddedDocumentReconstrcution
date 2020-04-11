@@ -1,0 +1,180 @@
+D001
+greedy: 0.68
+tabu: 0.92
+D002
+greedy: 0.178571
+tabu: 0.25
+D004
+greedy: 0.48
+tabu: 1
+D005
+greedy: 0.391304
+tabu: 0.913043
+D006
+greedy: 0.478261
+tabu: 1
+D007
+greedy: 0.692308
+tabu: 1
+D008
+greedy: 0.576923
+tabu: 0.846154
+D009
+greedy: 0.259259
+tabu: 0.592593
+D010
+greedy: 0.32
+tabu: 0.88
+D011
+greedy: 0.714286
+tabu: 1
+D012
+greedy: 0.904762
+tabu: 1
+D013
+greedy: 0.571429
+tabu: 0.666667
+D014
+greedy: 0.904762
+tabu: 1
+D015
+greedy: 0.714286
+tabu: 0.857143
+D016
+greedy: 1
+tabu: 1
+D017
+greedy: 0.619048
+tabu: 0.809524
+D018
+greedy: 1
+tabu: 1
+D019
+greedy: 0.761905
+tabu: 1
+D020
+greedy: 0.571429
+tabu: 0.809524
+D021
+greedy: 0.714286
+tabu: 1
+D022
+greedy: 0.761905
+tabu: 1
+D023
+greedy: 0.857143
+tabu: 0.904762
+D024
+greedy: 0.904762
+tabu: 1
+D025
+greedy: 0.666667
+tabu: 1
+D026
+greedy: 0.857143
+tabu: 1
+D027
+greedy: 0.714286
+tabu: 1
+D028
+greedy: 0.571429
+tabu: 1
+D029
+greedy: 0.904762
+tabu: 0.904762
+D030
+greedy: 0.761905
+tabu: 1
+D031
+greedy: 0.952381
+tabu: 1
+D032
+greedy: 0.952381
+tabu: 1
+D033
+greedy: 0.714286
+tabu: 1
+D034
+greedy: 0.857143
+tabu: 1
+D035
+greedy: 0.571429
+tabu: 0.714286
+D036
+greedy: 1
+tabu: 1
+D037
+greedy: 0.571429
+tabu: 1
+D038
+greedy: 1
+tabu: 1
+D039
+greedy: 1
+tabu: 1
+D040
+greedy: 0.761905
+tabu: 1
+D041
+greedy: 1
+tabu: 1
+D042
+greedy: 0.73913
+tabu: 1
+D043
+greedy: 0.652174
+tabu: 1
+D044
+greedy: 0.363636
+tabu: 0.863636
+D045
+greedy: 0.318182
+tabu: 0.727273
+D046
+greedy: 0.217391
+tabu: 0.782609
+D047
+greedy: 0.608696
+tabu: 1
+D048
+greedy: 0.363636
+tabu: 0.818182
+D049
+greedy: 0.26087
+tabu: 0.652174
+D050
+greedy: 0.318182
+tabu: 0.636364
+D051
+greedy: 0.272727
+tabu: 0.409091
+D052
+greedy: 0.782609
+tabu: 1
+D053
+greedy: 0.409091
+tabu: 0.363636
+D054
+greedy: 0.681818
+tabu: 1
+D055
+greedy: 0.181818
+tabu: 0.772727
+D056
+greedy: 0.454545
+tabu: 0.772727
+D057
+greedy: 0.318182
+tabu: 0.909091
+D058
+greedy: 0.608696
+tabu: 0.869565
+D059
+greedy: 0.434783
+tabu: 1
+D060
+greedy: 0.391304
+tabu: 0.73913
+D061
+greedy: 0.909091
+tabu: 0.954545

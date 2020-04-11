@@ -1,0 +1,1795 @@
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D00105 Correct match at position: 0 Cost: -0.772348 Best match:D00106 With score: -0.772348
+D00106 Correct match at position: 0 Cost: -0.730649 Best match:D00107 With score: -0.730649
+D00107 Correct match at position: 0 Cost: -0.752164 Best match:D00108 With score: -0.752164
+D00108 Correct match at position: 0 Cost: -0.813176 Best match:D00109 With score: -0.813176
+D00109 Correct match at position: 1 Cost: -0.59393 Best match:D00115 With score: -0.604258
+D00110 Correct match at position: 0 Cost: -0.790006 Best match:D00111 With score: -0.790006
+D00111 Correct match at position: 0 Cost: -0.763684 Best match:D00112 With score: -0.763684
+D00112 Correct match at position: 0 Cost: -0.739804 Best match:D00113 With score: -0.739804
+D00113 Correct match at position: 0 Cost: -0.726756 Best match:D00114 With score: -0.726756
+D00114 Correct match at position: 0 Cost: -0.829454 Best match:D00115 With score: -0.829454
+D00115 Correct match at position: 0 Cost: -0.621085 Best match:D00116 With score: -0.621085
+D00116 Correct match at position: 0 Cost: -0.669206 Best match:D00117 With score: -0.669206
+D00117 Correct match at position: 0 Cost: -0.682256 Best match:D00118 With score: -0.682256
+D00118 Correct match at position: 0 Cost: -0.822922 Best match:D00119 With score: -0.822922
+D00119 Correct match at position: 0 Cost: -0.79953 Best match:D00120 With score: -0.79953
+D00120 Correct match at position: 0 Cost: -0.678039 Best match:D00121 With score: -0.678039
+D00121 Correct match at position: 0 Cost: -0.823652 Best match:D00122 With score: -0.823652
+D00122 Correct match at position: 0 Cost: -0.677188 Best match:D00123 With score: -0.677188
+D00123 Correct match at position: 0 Cost: -0.69125 Best match:D00124 With score: -0.69125
+D00124 Correct match at position: 0 Cost: -0.577104 Best match:D00125 With score: -0.577104
+D00125 Correct match at position: 0 Cost: -0.678128 Best match:D00126 With score: -0.678128
+D00126 Correct match at position: 0 Cost: -0.567698 Best match:D00127 With score: -0.567698
+D00127 Correct match at position: 1 Cost: -0.526766 Best match:D00129 With score: -0.54643
+D00128 Correct match at position: 0 Cost: -0.517828 Best match:D00129 With score: -0.517828
+Average: 0.08
+could not open or find the image
+D00202 Correct match at position: 0 Cost: -0.990322 Best match:D00203 With score: -0.990322
+D00203 Correct match at position: 17 Cost: 0 Best match:D00202 With score: -0.484154
+D00204 Correct match at position: 0 Cost: -0.711062 Best match:D00205 With score: -0.711062
+D00205 Correct match at position: 0 Cost: -0.974124 Best match:D00206 With score: -0.974124
+D00206 Correct match at position: 0 Cost: -0.969478 Best match:D00207 With score: -0.969478
+D00207 Correct match at position: 0 Cost: -0.95761 Best match:D00208 With score: -0.95761
+D00208 Correct match at position: 1 Cost: -0.657946 Best match:D00207 With score: -0.944955
+D00209 Correct match at position: 2 Cost: -0.644735 Best match:D00208 With score: -0.978754
+D00210 Correct match at position: 1 Cost: -0.635302 Best match:D00209 With score: -0.64468
+D00211 Correct match at position: 1 Cost: -0.801561 Best match:D00213 With score: -0.863385
+D00212 Correct match at position: 0 Cost: -0.86938 Best match:D00213 With score: -0.86938
+D00213 Correct match at position: 0 Cost: -0.61715 Best match:D00214 With score: -0.61715
+D00214 Correct match at position: 0 Cost: -0.747001 Best match:D00215 With score: -0.747001
+D00215 Correct match at position: 0 Cost: -0.974706 Best match:D00216 With score: -0.974706
+D00216 Correct match at position: 1 Cost: -0.772259 Best match:D00218 With score: -0.794368
+D00217 Correct match at position: 0 Cost: -0.761904 Best match:D00218 With score: -0.761904
+D00218 Correct match at position: 0 Cost: -0.838464 Best match:D00219 With score: -0.838464
+D00219 Correct match at position: 0 Cost: -0.802942 Best match:D00220 With score: -0.802942
+D00220 Correct match at position: 0 Cost: -0.855712 Best match:D00221 With score: -0.855712
+D00221 Correct match at position: 6 Cost: -0.742338 Best match:D00217 With score: -0.866456
+D00222 Correct match at position: 0 Cost: -0.841245 Best match:D00223 With score: -0.841245
+D00223 Correct match at position: 1 Cost: -0.844141 Best match:D00222 With score: -0.946088
+D00224 Correct match at position: 2 Cost: -0.682744 Best match:D00220 With score: -0.833701
+D00225 Correct match at position: 0 Cost: -0.966093 Best match:D00226 With score: -0.966093
+D00226 Correct match at position: 0 Cost: -0.728441 Best match:D00227 With score: -0.728441
+D00227 Correct match at position: 0 Cost: -0.969047 Best match:D00228 With score: -0.969047
+D00228 Correct match at position: 0 Cost: -0.833938 Best match:D00229 With score: -0.833938
+Average: 1.14286
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D00402 Correct match at position: 0 Cost: -0.815066 Best match:D00403 With score: -0.815066
+D00403 Correct match at position: 0 Cost: -0.962238 Best match:D00404 With score: -0.962238
+D00404 Correct match at position: 0 Cost: -0.91055 Best match:D00405 With score: -0.91055
+D00405 Correct match at position: 0 Cost: -0.942847 Best match:D00406 With score: -0.942847
+D00406 Correct match at position: 0 Cost: -0.864977 Best match:D00407 With score: -0.864977
+D00407 Correct match at position: 0 Cost: -0.769698 Best match:D00408 With score: -0.769698
+D00408 Correct match at position: 0 Cost: -0.832426 Best match:D00409 With score: -0.832426
+D00409 Correct match at position: 0 Cost: -0.592357 Best match:D00410 With score: -0.592357
+D00410 Correct match at position: 0 Cost: -0.668501 Best match:D00411 With score: -0.668501
+D00411 Correct match at position: 0 Cost: -0.851428 Best match:D00412 With score: -0.851428
+D00412 Correct match at position: 0 Cost: -0.732384 Best match:D00413 With score: -0.732384
+D00413 Correct match at position: 2 Cost: -0.732693 Best match:D00409 With score: -0.768181
+D00414 Correct match at position: 0 Cost: -0.813917 Best match:D00415 With score: -0.813917
+D00415 Correct match at position: 1 Cost: -0.857802 Best match:D00418 With score: -0.858539
+D00416 Correct match at position: 0 Cost: -0.929663 Best match:D00417 With score: -0.929663
+D00417 Correct match at position: 0 Cost: -0.897825 Best match:D00418 With score: -0.897825
+D00418 Correct match at position: 0 Cost: -0.937922 Best match:D00419 With score: -0.937922
+D00419 Correct match at position: 0 Cost: -0.937689 Best match:D00420 With score: -0.937689
+D00420 Correct match at position: 1 Cost: -0.805821 Best match:D00419 With score: -0.857778
+D00421 Correct match at position: 0 Cost: -0.502585 Best match:D00422 With score: -0.502585
+D00422 Correct match at position: 0 Cost: -0.71905 Best match:D00423 With score: -0.71905
+D00423 Correct match at position: 0 Cost: -0.795997 Best match:D00424 With score: -0.795997
+D00424 Correct match at position: 0 Cost: -0.874495 Best match:D00425 With score: -0.874495
+D00425 Correct match at position: 0 Cost: -0.739918 Best match:D00426 With score: -0.739918
+D00426 Correct match at position: 0 Cost: -0.813385 Best match:D00427 With score: -0.813385
+Average: 0.16
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D00503 Correct match at position: 0 Cost: -0.835856 Best match:D00504 With score: -0.835856
+D00504 Correct match at position: 0 Cost: -0.505917 Best match:D00505 With score: -0.505917
+D00505 Correct match at position: 0 Cost: -0.841203 Best match:D00506 With score: -0.841203
+D00506 Correct match at position: 0 Cost: -0.892256 Best match:D00507 With score: -0.892256
+D00507 Correct match at position: 0 Cost: -0.752126 Best match:D00508 With score: -0.752126
+D00508 Correct match at position: 1 Cost: -0.424697 Best match:D00506 With score: -0.425105
+D00509 Correct match at position: 0 Cost: -0.956103 Best match:D00510 With score: -0.956103
+D00510 Correct match at position: 0 Cost: -0.805303 Best match:D00511 With score: -0.805303
+D00511 Correct match at position: 0 Cost: -0.370169 Best match:D00512 With score: -0.370169
+D00512 Correct match at position: 0 Cost: -0.837704 Best match:D00513 With score: -0.837704
+D00513 Correct match at position: 0 Cost: -0.813974 Best match:D00514 With score: -0.813974
+D00514 Correct match at position: 1 Cost: -0.356455 Best match:D00516 With score: -0.40772
+D00515 Correct match at position: 0 Cost: -0.813904 Best match:D00516 With score: -0.813904
+D00516 Correct match at position: 0 Cost: -0.579407 Best match:D00517 With score: -0.579407
+D00517 Correct match at position: 3 Cost: -0.366304 Best match:D00522 With score: -0.421443
+D00518 Correct match at position: 0 Cost: -0.841018 Best match:D00519 With score: -0.841018
+D00519 Correct match at position: 0 Cost: -0.877424 Best match:D00520 With score: -0.877424
+D00520 Correct match at position: 4 Cost: -0.36948 Best match:D00524 With score: -0.708869
+D00521 Correct match at position: 0 Cost: -0.799387 Best match:D00522 With score: -0.799387
+D00522 Correct match at position: 0 Cost: -0.816008 Best match:D00523 With score: -0.816008
+D00523 Correct match at position: 0 Cost: -0.548906 Best match:D00524 With score: -0.548906
+D00524 Correct match at position: 0 Cost: -0.648789 Best match:D00525 With score: -0.648789
+D00525 Correct match at position: 0 Cost: -0.91113 Best match:D00526 With score: -0.91113
+Average: 0.391304
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D00605 Correct match at position: 0 Cost: -0.963557 Best match:D00606 With score: -0.963557
+D00606 Correct match at position: 0 Cost: -0.942813 Best match:D00607 With score: -0.942813
+D00607 Correct match at position: 0 Cost: -0.86161 Best match:D00608 With score: -0.86161
+D00608 Correct match at position: 0 Cost: -0.795787 Best match:D00609 With score: -0.795787
+D00609 Correct match at position: 0 Cost: -0.795069 Best match:D00610 With score: -0.795069
+D00610 Correct match at position: 0 Cost: -0.873265 Best match:D00611 With score: -0.873265
+D00611 Correct match at position: 0 Cost: -0.847616 Best match:D00612 With score: -0.847616
+D00612 Correct match at position: 0 Cost: -0.668583 Best match:D00613 With score: -0.668583
+D00613 Correct match at position: 0 Cost: -0.714398 Best match:D00614 With score: -0.714398
+D00614 Correct match at position: 0 Cost: -0.878956 Best match:D00615 With score: -0.878956
+D00615 Correct match at position: 2 Cost: -0.689581 Best match:D00621 With score: -0.709657
+D00616 Correct match at position: 0 Cost: -0.826539 Best match:D00617 With score: -0.826539
+D00617 Correct match at position: 0 Cost: -0.940731 Best match:D00618 With score: -0.940731
+D00618 Correct match at position: 0 Cost: -0.780703 Best match:D00619 With score: -0.780703
+D00619 Correct match at position: 0 Cost: -0.860243 Best match:D00620 With score: -0.860243
+D00620 Correct match at position: 0 Cost: -0.865449 Best match:D00621 With score: -0.865449
+D00621 Correct match at position: 0 Cost: -0.819975 Best match:D00622 With score: -0.819975
+D00622 Correct match at position: 0 Cost: -0.849604 Best match:D00623 With score: -0.849604
+D00623 Correct match at position: 0 Cost: -0.646093 Best match:D00624 With score: -0.646093
+D00624 Correct match at position: 0 Cost: -0.880016 Best match:D00625 With score: -0.880016
+D00625 Correct match at position: 0 Cost: -0.915679 Best match:D00626 With score: -0.915679
+D00626 Correct match at position: 0 Cost: -0.844499 Best match:D00627 With score: -0.844499
+D00627 Correct match at position: 0 Cost: -0.986748 Best match:D00628 With score: -0.986748
+Average: 0.0869565
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D00702 Correct match at position: 0 Cost: -0.838826 Best match:D00703 With score: -0.838826
+D00703 Correct match at position: 0 Cost: -0.725039 Best match:D00704 With score: -0.725039
+D00704 Correct match at position: 0 Cost: -0.779914 Best match:D00705 With score: -0.779914
+D00705 Correct match at position: 0 Cost: -0.735 Best match:D00706 With score: -0.735
+D00706 Correct match at position: 0 Cost: -0.688474 Best match:D00707 With score: -0.688474
+D00707 Correct match at position: 0 Cost: -0.767313 Best match:D00708 With score: -0.767313
+D00708 Correct match at position: 0 Cost: -0.849393 Best match:D00709 With score: -0.849393
+D00709 Correct match at position: 0 Cost: -0.78576 Best match:D00710 With score: -0.78576
+D00710 Correct match at position: 0 Cost: -0.87031 Best match:D00711 With score: -0.87031
+D00711 Correct match at position: 0 Cost: -0.809834 Best match:D00712 With score: -0.809834
+D00712 Correct match at position: 0 Cost: -0.797147 Best match:D00713 With score: -0.797147
+D00713 Correct match at position: 0 Cost: -0.849949 Best match:D00714 With score: -0.849949
+D00714 Correct match at position: 0 Cost: -0.784909 Best match:D00715 With score: -0.784909
+D00715 Correct match at position: 0 Cost: -0.896907 Best match:D00716 With score: -0.896907
+D00716 Correct match at position: 0 Cost: -0.79224 Best match:D00717 With score: -0.79224
+D00717 Correct match at position: 0 Cost: -0.941876 Best match:D00718 With score: -0.941876
+D00718 Correct match at position: 0 Cost: -0.838943 Best match:D00719 With score: -0.838943
+D00719 Correct match at position: 0 Cost: -0.683219 Best match:D00720 With score: -0.683219
+D00720 Correct match at position: 0 Cost: -0.881211 Best match:D00721 With score: -0.881211
+D00721 Correct match at position: 0 Cost: -0.828112 Best match:D00722 With score: -0.828112
+D00722 Correct match at position: 0 Cost: -0.887711 Best match:D00723 With score: -0.887711
+D00723 Correct match at position: 0 Cost: -0.820568 Best match:D00724 With score: -0.820568
+D00724 Correct match at position: 0 Cost: -0.870898 Best match:D00725 With score: -0.870898
+D00725 Correct match at position: 0 Cost: -0.769104 Best match:D00726 With score: -0.769104
+D00726 Correct match at position: 0 Cost: -0.839938 Best match:D00727 With score: -0.839938
+D00727 Correct match at position: 0 Cost: -0.785994 Best match:D00728 With score: -0.785994
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D00802 Correct match at position: 0 Cost: -0.254286 Best match:D00803 With score: -0.254286
+D00803 Correct match at position: 0 Cost: -0.751026 Best match:D00804 With score: -0.751026
+D00804 Correct match at position: 0 Cost: -0.57778 Best match:D00805 With score: -0.57778
+D00805 Correct match at position: 0 Cost: -0.488745 Best match:D00806 With score: -0.488745
+D00806 Correct match at position: 0 Cost: -0.612933 Best match:D00807 With score: -0.612933
+D00807 Correct match at position: 0 Cost: -0.681952 Best match:D00808 With score: -0.681952
+D00808 Correct match at position: 0 Cost: -0.613046 Best match:D00809 With score: -0.613046
+D00809 Correct match at position: 0 Cost: -0.592483 Best match:D00810 With score: -0.592483
+D00810 Correct match at position: 0 Cost: -0.632752 Best match:D00811 With score: -0.632752
+D00811 Correct match at position: 0 Cost: -0.541782 Best match:D00812 With score: -0.541782
+D00812 Correct match at position: 0 Cost: -0.71548 Best match:D00813 With score: -0.71548
+D00813 Correct match at position: 0 Cost: -0.431503 Best match:D00814 With score: -0.431503
+D00814 Correct match at position: 0 Cost: -0.527289 Best match:D00815 With score: -0.527289
+D00815 Correct match at position: 17 Cost: -0.236411 Best match:D00817 With score: -0.434278
+D00816 Correct match at position: 0 Cost: -0.5556 Best match:D00817 With score: -0.5556
+D00817 Correct match at position: 0 Cost: -0.468582 Best match:D00818 With score: -0.468582
+D00818 Correct match at position: 0 Cost: -0.637114 Best match:D00819 With score: -0.637114
+D00819 Correct match at position: 0 Cost: -0.589429 Best match:D00820 With score: -0.589429
+D00820 Correct match at position: 0 Cost: -0.391826 Best match:D00821 With score: -0.391826
+D00821 Correct match at position: 0 Cost: -0.429919 Best match:D00822 With score: -0.429919
+D00822 Correct match at position: 0 Cost: -0.574994 Best match:D00823 With score: -0.574994
+D00823 Correct match at position: 0 Cost: -0.448756 Best match:D00824 With score: -0.448756
+D00824 Correct match at position: 0 Cost: -0.637433 Best match:D00825 With score: -0.637433
+D00825 Correct match at position: 0 Cost: -0.523875 Best match:D00826 With score: -0.523875
+D00826 Correct match at position: 0 Cost: -0.464941 Best match:D00827 With score: -0.464941
+D00827 Correct match at position: 1 Cost: -0.476501 Best match:D00826 With score: -0.496732
+Average: 0.692308
+could not open or find the image
+could not open or find the image
+D00902 Correct match at position: 1 Cost: -0.0525368 Best match:D00904 With score: -0.0850826
+D00903 Correct match at position: 0 Cost: -0.699208 Best match:D00904 With score: -0.699208
+D00904 Correct match at position: 0 Cost: -0.64164 Best match:D00905 With score: -0.64164
+D00905 Correct match at position: 0 Cost: -0.949011 Best match:D00906 With score: -0.949011
+D00906 Correct match at position: 0 Cost: -0.954709 Best match:D00907 With score: -0.954709
+D00907 Correct match at position: 0 Cost: -0.955104 Best match:D00908 With score: -0.955104
+D00908 Correct match at position: 0 Cost: -0.948344 Best match:D00909 With score: -0.948344
+D00909 Correct match at position: 0 Cost: -0.615821 Best match:D00910 With score: -0.615821
+D00910 Correct match at position: 0 Cost: -0.483513 Best match:D00911 With score: -0.483513
+D00911 Correct match at position: 0 Cost: -0.964865 Best match:D00912 With score: -0.964865
+D00912 Correct match at position: 0 Cost: -0.387457 Best match:D00913 With score: -0.387457
+D00913 Correct match at position: 0 Cost: -0.644524 Best match:D00914 With score: -0.644524
+D00914 Correct match at position: 0 Cost: -0.935701 Best match:D00915 With score: -0.935701
+D00915 Correct match at position: 0 Cost: -0.857177 Best match:D00916 With score: -0.857177
+D00916 Correct match at position: 0 Cost: -0.661076 Best match:D00917 With score: -0.661076
+D00917 Correct match at position: 0 Cost: -0.654212 Best match:D00918 With score: -0.654212
+D00918 Correct match at position: 0 Cost: -0.575415 Best match:D00919 With score: -0.575415
+D00919 Correct match at position: 1 Cost: -0.138103 Best match:D00918 With score: -0.25
+D00920 Correct match at position: 0 Cost: -0.693494 Best match:D00921 With score: -0.693494
+D00921 Correct match at position: 0 Cost: -0.420409 Best match:D00922 With score: -0.420409
+D00922 Correct match at position: 0 Cost: -0.636149 Best match:D00923 With score: -0.636149
+D00923 Correct match at position: 0 Cost: -0.921154 Best match:D00924 With score: -0.921154
+D00924 Correct match at position: 0 Cost: -0.838998 Best match:D00925 With score: -0.838998
+D00925 Correct match at position: 24 Cost: 0 Best match:D00901 With score: 0
+D00927 Correct match at position: 0 Cost: -0.937831 Best match:D00928 With score: -0.937831
+Average: 0.962963
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01004 Correct match at position: 0 Cost: -0.691878 Best match:D01005 With score: -0.691878
+D01005 Correct match at position: 0 Cost: -0.627077 Best match:D01006 With score: -0.627077
+D01006 Correct match at position: 0 Cost: -0.796855 Best match:D01007 With score: -0.796855
+D01007 Correct match at position: 0 Cost: -0.728137 Best match:D01008 With score: -0.728137
+D01008 Correct match at position: 0 Cost: -0.805519 Best match:D01009 With score: -0.805519
+D01009 Correct match at position: 0 Cost: -0.776971 Best match:D01010 With score: -0.776971
+D01010 Correct match at position: 1 Cost: -0.702622 Best match:D01014 With score: -0.707623
+D01011 Correct match at position: 0 Cost: -0.791321 Best match:D01012 With score: -0.791321
+D01012 Correct match at position: 0 Cost: -0.77647 Best match:D01013 With score: -0.77647
+D01013 Correct match at position: 0 Cost: -0.852663 Best match:D01014 With score: -0.852663
+D01014 Correct match at position: 0 Cost: -0.628997 Best match:D01015 With score: -0.628997
+D01015 Correct match at position: 1 Cost: -0.633248 Best match:D01014 With score: -0.651345
+D01016 Correct match at position: 6 Cost: -0.60329 Best match:D01025 With score: -0.740846
+D01017 Correct match at position: 1 Cost: -0.666281 Best match:D01021 With score: -0.714816
+D01018 Correct match at position: 0 Cost: -0.854596 Best match:D01019 With score: -0.854596
+D01019 Correct match at position: 0 Cost: -0.794382 Best match:D01020 With score: -0.794382
+D01020 Correct match at position: 0 Cost: -0.91199 Best match:D01021 With score: -0.91199
+D01021 Correct match at position: 0 Cost: -0.883269 Best match:D01022 With score: -0.883269
+D01022 Correct match at position: 0 Cost: -0.801743 Best match:D01023 With score: -0.801743
+D01023 Correct match at position: 0 Cost: -0.924209 Best match:D01024 With score: -0.924209
+D01024 Correct match at position: 0 Cost: -0.759558 Best match:D01025 With score: -0.759558
+D01025 Correct match at position: 21 Cost: 100 Best match:D01005 With score: 0
+D01026 Correct match at position: 22 Cost: 100 Best match:D01005 With score: 0
+D01027 Correct match at position: 0 Cost: -0.835301 Best match:D01028 With score: -0.835301
+Average: 2.08
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01106 Correct match at position: 0 Cost: -0.626468 Best match:D01107 With score: -0.626468
+D01107 Correct match at position: 0 Cost: -0.758037 Best match:D01108 With score: -0.758037
+D01108 Correct match at position: 0 Cost: -0.718506 Best match:D01109 With score: -0.718506
+D01109 Correct match at position: 0 Cost: -0.704529 Best match:D01110 With score: -0.704529
+D01110 Correct match at position: 0 Cost: -0.733313 Best match:D01111 With score: -0.733313
+D01111 Correct match at position: 0 Cost: -0.704448 Best match:D01112 With score: -0.704448
+D01112 Correct match at position: 0 Cost: -0.605814 Best match:D01113 With score: -0.605814
+D01113 Correct match at position: 0 Cost: -0.75281 Best match:D01114 With score: -0.75281
+D01114 Correct match at position: 0 Cost: -0.83222 Best match:D01115 With score: -0.83222
+D01115 Correct match at position: 0 Cost: -0.687828 Best match:D01116 With score: -0.687828
+D01116 Correct match at position: 0 Cost: -0.694555 Best match:D01117 With score: -0.694555
+D01117 Correct match at position: 0 Cost: -0.732892 Best match:D01118 With score: -0.732892
+D01118 Correct match at position: 0 Cost: -0.776202 Best match:D01119 With score: -0.776202
+D01119 Correct match at position: 0 Cost: -0.800237 Best match:D01120 With score: -0.800237
+D01120 Correct match at position: 0 Cost: -0.748024 Best match:D01121 With score: -0.748024
+D01121 Correct match at position: 0 Cost: -0.76138 Best match:D01122 With score: -0.76138
+D01122 Correct match at position: 3 Cost: -0.609418 Best match:D01115 With score: -0.67215
+D01123 Correct match at position: 0 Cost: -0.748271 Best match:D01124 With score: -0.748271
+D01124 Correct match at position: 0 Cost: -0.785309 Best match:D01125 With score: -0.785309
+D01125 Correct match at position: 0 Cost: -0.818807 Best match:D01126 With score: -0.818807
+D01126 Correct match at position: 0 Cost: -0.730352 Best match:D01127 With score: -0.730352
+Average: 0.142857
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01204 Correct match at position: 0 Cost: -0.81133 Best match:D01205 With score: -0.81133
+D01205 Correct match at position: 0 Cost: -0.874169 Best match:D01206 With score: -0.874169
+D01206 Correct match at position: 0 Cost: -0.776312 Best match:D01207 With score: -0.776312
+D01207 Correct match at position: 0 Cost: -0.802043 Best match:D01208 With score: -0.802043
+D01208 Correct match at position: 0 Cost: -0.697685 Best match:D01209 With score: -0.697685
+D01209 Correct match at position: 0 Cost: -0.767088 Best match:D01210 With score: -0.767088
+D01210 Correct match at position: 0 Cost: -0.819635 Best match:D01211 With score: -0.819635
+D01211 Correct match at position: 0 Cost: -0.760172 Best match:D01212 With score: -0.760172
+D01212 Correct match at position: 0 Cost: -0.866471 Best match:D01213 With score: -0.866471
+D01213 Correct match at position: 0 Cost: -0.773697 Best match:D01214 With score: -0.773697
+D01214 Correct match at position: 0 Cost: -0.686471 Best match:D01215 With score: -0.686471
+D01215 Correct match at position: 0 Cost: -0.711952 Best match:D01216 With score: -0.711952
+D01216 Correct match at position: 0 Cost: -0.738927 Best match:D01217 With score: -0.738927
+D01217 Correct match at position: 0 Cost: -0.82212 Best match:D01218 With score: -0.82212
+D01218 Correct match at position: 0 Cost: -0.862824 Best match:D01219 With score: -0.862824
+D01219 Correct match at position: 0 Cost: -0.820674 Best match:D01220 With score: -0.820674
+D01220 Correct match at position: 0 Cost: -0.789427 Best match:D01221 With score: -0.789427
+D01221 Correct match at position: 0 Cost: -0.784055 Best match:D01222 With score: -0.784055
+D01222 Correct match at position: 0 Cost: -0.777409 Best match:D01223 With score: -0.777409
+D01223 Correct match at position: 0 Cost: -0.635118 Best match:D01224 With score: -0.635118
+D01224 Correct match at position: 0 Cost: -0.582211 Best match:D01225 With score: -0.582211
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01306 Correct match at position: 0 Cost: -0.835116 Best match:D01307 With score: -0.835116
+D01307 Correct match at position: 0 Cost: -0.761528 Best match:D01308 With score: -0.761528
+D01308 Correct match at position: 0 Cost: -0.758908 Best match:D01309 With score: -0.758908
+D01309 Correct match at position: 0 Cost: -0.75114 Best match:D01310 With score: -0.75114
+D01310 Correct match at position: 0 Cost: -0.830548 Best match:D01311 With score: -0.830548
+D01311 Correct match at position: 0 Cost: -0.806209 Best match:D01312 With score: -0.806209
+D01312 Correct match at position: 0 Cost: -0.822615 Best match:D01313 With score: -0.822615
+D01313 Correct match at position: 0 Cost: -0.788257 Best match:D01314 With score: -0.788257
+D01314 Correct match at position: 0 Cost: -0.775567 Best match:D01315 With score: -0.775567
+D01315 Correct match at position: 0 Cost: -0.758111 Best match:D01316 With score: -0.758111
+D01316 Correct match at position: 0 Cost: -0.752296 Best match:D01317 With score: -0.752296
+D01317 Correct match at position: 0 Cost: -0.745918 Best match:D01318 With score: -0.745918
+D01318 Correct match at position: 0 Cost: -0.682583 Best match:D01319 With score: -0.682583
+D01319 Correct match at position: 0 Cost: -0.704855 Best match:D01320 With score: -0.704855
+D01320 Correct match at position: 0 Cost: -0.801489 Best match:D01321 With score: -0.801489
+D01321 Correct match at position: 0 Cost: -0.722657 Best match:D01322 With score: -0.722657
+D01322 Correct match at position: 0 Cost: -0.709687 Best match:D01323 With score: -0.709687
+D01323 Correct match at position: 0 Cost: -0.791242 Best match:D01324 With score: -0.791242
+D01324 Correct match at position: 0 Cost: -0.737397 Best match:D01325 With score: -0.737397
+D01325 Correct match at position: 0 Cost: -0.91729 Best match:D01326 With score: -0.91729
+D01326 Correct match at position: 2 Cost: -0.653978 Best match:D01321 With score: -0.714648
+Average: 0.0952381
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01404 Correct match at position: 0 Cost: -0.800387 Best match:D01405 With score: -0.800387
+D01405 Correct match at position: 0 Cost: -0.85389 Best match:D01406 With score: -0.85389
+D01406 Correct match at position: 0 Cost: -0.774091 Best match:D01407 With score: -0.774091
+D01407 Correct match at position: 0 Cost: -0.833223 Best match:D01408 With score: -0.833223
+D01408 Correct match at position: 0 Cost: -0.792839 Best match:D01409 With score: -0.792839
+D01409 Correct match at position: 0 Cost: -0.819226 Best match:D01410 With score: -0.819226
+D01410 Correct match at position: 0 Cost: -0.830514 Best match:D01411 With score: -0.830514
+D01411 Correct match at position: 0 Cost: -0.805211 Best match:D01412 With score: -0.805211
+D01412 Correct match at position: 0 Cost: -0.72941 Best match:D01413 With score: -0.72941
+D01413 Correct match at position: 0 Cost: -0.856266 Best match:D01414 With score: -0.856266
+D01414 Correct match at position: 0 Cost: -0.708966 Best match:D01415 With score: -0.708966
+D01415 Correct match at position: 1 Cost: -0.581602 Best match:D01408 With score: -0.586845
+D01416 Correct match at position: 0 Cost: -0.793593 Best match:D01417 With score: -0.793593
+D01417 Correct match at position: 0 Cost: -0.766034 Best match:D01418 With score: -0.766034
+D01418 Correct match at position: 0 Cost: -0.835123 Best match:D01419 With score: -0.835123
+D01419 Correct match at position: 0 Cost: -0.679645 Best match:D01420 With score: -0.679645
+D01420 Correct match at position: 0 Cost: -0.691318 Best match:D01421 With score: -0.691318
+D01421 Correct match at position: 0 Cost: -0.818071 Best match:D01422 With score: -0.818071
+D01422 Correct match at position: 0 Cost: -0.637433 Best match:D01423 With score: -0.637433
+D01423 Correct match at position: 0 Cost: -0.834633 Best match:D01424 With score: -0.834633
+D01424 Correct match at position: 0 Cost: -0.731738 Best match:D01425 With score: -0.731738
+Average: 0.047619
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01506 Correct match at position: 0 Cost: -0.873568 Best match:D01507 With score: -0.873568
+D01507 Correct match at position: 0 Cost: -0.768448 Best match:D01508 With score: -0.768448
+D01508 Correct match at position: 0 Cost: -0.81787 Best match:D01509 With score: -0.81787
+D01509 Correct match at position: 0 Cost: -0.847214 Best match:D01510 With score: -0.847214
+D01510 Correct match at position: 0 Cost: -0.796451 Best match:D01511 With score: -0.796451
+D01511 Correct match at position: 0 Cost: -0.881735 Best match:D01512 With score: -0.881735
+D01512 Correct match at position: 0 Cost: -0.790821 Best match:D01513 With score: -0.790821
+D01513 Correct match at position: 0 Cost: -0.891879 Best match:D01514 With score: -0.891879
+D01514 Correct match at position: 0 Cost: -0.808192 Best match:D01515 With score: -0.808192
+D01515 Correct match at position: 0 Cost: -0.70835 Best match:D01516 With score: -0.70835
+D01516 Correct match at position: 0 Cost: -0.731713 Best match:D01517 With score: -0.731713
+D01517 Correct match at position: 0 Cost: -0.707319 Best match:D01518 With score: -0.707319
+D01518 Correct match at position: 0 Cost: -0.837987 Best match:D01519 With score: -0.837987
+D01519 Correct match at position: 0 Cost: -0.71684 Best match:D01520 With score: -0.71684
+D01520 Correct match at position: 0 Cost: -0.801804 Best match:D01521 With score: -0.801804
+D01521 Correct match at position: 0 Cost: -0.828616 Best match:D01522 With score: -0.828616
+D01522 Correct match at position: 0 Cost: -0.743751 Best match:D01523 With score: -0.743751
+D01523 Correct match at position: 0 Cost: -0.78157 Best match:D01524 With score: -0.78157
+D01524 Correct match at position: 0 Cost: -0.924266 Best match:D01525 With score: -0.924266
+D01525 Correct match at position: 0 Cost: -0.717378 Best match:D01526 With score: -0.717378
+D01526 Correct match at position: 0 Cost: -0.663792 Best match:D01527 With score: -0.663792
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01604 Correct match at position: 0 Cost: -0.913604 Best match:D01605 With score: -0.913604
+D01605 Correct match at position: 0 Cost: -0.932692 Best match:D01606 With score: -0.932692
+D01606 Correct match at position: 0 Cost: -0.822019 Best match:D01607 With score: -0.822019
+D01607 Correct match at position: 0 Cost: -0.872719 Best match:D01608 With score: -0.872719
+D01608 Correct match at position: 2 Cost: -0.596243 Best match:D01606 With score: -0.724604
+D01609 Correct match at position: 0 Cost: -0.79928 Best match:D01610 With score: -0.79928
+D01610 Correct match at position: 0 Cost: -0.702484 Best match:D01611 With score: -0.702484
+D01611 Correct match at position: 0 Cost: -0.859154 Best match:D01612 With score: -0.859154
+D01612 Correct match at position: 0 Cost: -0.852659 Best match:D01613 With score: -0.852659
+D01613 Correct match at position: 0 Cost: -0.750688 Best match:D01614 With score: -0.750688
+D01614 Correct match at position: 0 Cost: -0.758807 Best match:D01615 With score: -0.758807
+D01615 Correct match at position: 0 Cost: -0.827521 Best match:D01616 With score: -0.827521
+D01616 Correct match at position: 0 Cost: -0.917827 Best match:D01617 With score: -0.917827
+D01617 Correct match at position: 0 Cost: -0.875188 Best match:D01618 With score: -0.875188
+D01618 Correct match at position: 0 Cost: -0.792743 Best match:D01619 With score: -0.792743
+D01619 Correct match at position: 0 Cost: -0.873491 Best match:D01620 With score: -0.873491
+D01620 Correct match at position: 0 Cost: -0.963543 Best match:D01621 With score: -0.963543
+D01621 Correct match at position: 0 Cost: -0.87923 Best match:D01622 With score: -0.87923
+D01622 Correct match at position: 0 Cost: -0.590917 Best match:D01623 With score: -0.590917
+D01623 Correct match at position: 0 Cost: -0.88298 Best match:D01624 With score: -0.88298
+D01624 Correct match at position: 0 Cost: -0.881127 Best match:D01625 With score: -0.881127
+Average: 0.0952381
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01706 Correct match at position: 0 Cost: -0.638535 Best match:D01707 With score: -0.638535
+D01707 Correct match at position: 0 Cost: -0.772085 Best match:D01708 With score: -0.772085
+D01708 Correct match at position: 0 Cost: -0.76479 Best match:D01709 With score: -0.76479
+D01709 Correct match at position: 0 Cost: -0.598133 Best match:D01710 With score: -0.598133
+D01710 Correct match at position: 0 Cost: -0.733772 Best match:D01711 With score: -0.733772
+D01711 Correct match at position: 0 Cost: -0.798768 Best match:D01712 With score: -0.798768
+D01712 Correct match at position: 0 Cost: -0.706644 Best match:D01713 With score: -0.706644
+D01713 Correct match at position: 0 Cost: -0.792483 Best match:D01714 With score: -0.792483
+D01714 Correct match at position: 0 Cost: -0.757082 Best match:D01715 With score: -0.757082
+D01715 Correct match at position: 0 Cost: -0.705427 Best match:D01716 With score: -0.705427
+D01716 Correct match at position: 0 Cost: -0.652307 Best match:D01717 With score: -0.652307
+D01717 Correct match at position: 0 Cost: -0.690279 Best match:D01718 With score: -0.690279
+D01718 Correct match at position: 0 Cost: -0.701111 Best match:D01719 With score: -0.701111
+D01719 Correct match at position: 0 Cost: -0.686449 Best match:D01720 With score: -0.686449
+D01720 Correct match at position: 0 Cost: -0.732723 Best match:D01721 With score: -0.732723
+D01721 Correct match at position: 0 Cost: -0.640687 Best match:D01722 With score: -0.640687
+D01722 Correct match at position: 0 Cost: -0.771678 Best match:D01723 With score: -0.771678
+D01723 Correct match at position: 0 Cost: -0.768256 Best match:D01724 With score: -0.768256
+D01724 Correct match at position: 0 Cost: -0.717308 Best match:D01725 With score: -0.717308
+D01725 Correct match at position: 0 Cost: -0.79251 Best match:D01726 With score: -0.79251
+D01726 Correct match at position: 0 Cost: -0.56878 Best match:D01727 With score: -0.56878
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01804 Correct match at position: 0 Cost: -0.855082 Best match:D01805 With score: -0.855082
+D01805 Correct match at position: 0 Cost: -0.615488 Best match:D01806 With score: -0.615488
+D01806 Correct match at position: 0 Cost: -0.793789 Best match:D01807 With score: -0.793789
+D01807 Correct match at position: 0 Cost: -0.469556 Best match:D01808 With score: -0.469556
+D01808 Correct match at position: 0 Cost: -0.729589 Best match:D01809 With score: -0.729589
+D01809 Correct match at position: 0 Cost: -0.827777 Best match:D01810 With score: -0.827777
+D01810 Correct match at position: 0 Cost: -0.788832 Best match:D01811 With score: -0.788832
+D01811 Correct match at position: 0 Cost: -0.778878 Best match:D01812 With score: -0.778878
+D01812 Correct match at position: 0 Cost: -0.770272 Best match:D01813 With score: -0.770272
+D01813 Correct match at position: 0 Cost: -0.773629 Best match:D01814 With score: -0.773629
+D01814 Correct match at position: 0 Cost: -0.672376 Best match:D01815 With score: -0.672376
+D01815 Correct match at position: 0 Cost: -0.747718 Best match:D01816 With score: -0.747718
+D01816 Correct match at position: 0 Cost: -0.504385 Best match:D01817 With score: -0.504385
+D01817 Correct match at position: 0 Cost: -0.801228 Best match:D01818 With score: -0.801228
+D01818 Correct match at position: 0 Cost: -0.637782 Best match:D01819 With score: -0.637782
+D01819 Correct match at position: 0 Cost: -0.750338 Best match:D01820 With score: -0.750338
+D01820 Correct match at position: 0 Cost: -0.701634 Best match:D01821 With score: -0.701634
+D01821 Correct match at position: 0 Cost: -0.8624 Best match:D01822 With score: -0.8624
+D01822 Correct match at position: 0 Cost: -0.763747 Best match:D01823 With score: -0.763747
+D01823 Correct match at position: 0 Cost: -0.706955 Best match:D01824 With score: -0.706955
+D01824 Correct match at position: 0 Cost: -0.666086 Best match:D01825 With score: -0.666086
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D01906 Correct match at position: 0 Cost: -0.588006 Best match:D01907 With score: -0.588006
+D01907 Correct match at position: 0 Cost: -0.651382 Best match:D01908 With score: -0.651382
+D01908 Correct match at position: 0 Cost: -0.678991 Best match:D01909 With score: -0.678991
+D01909 Correct match at position: 0 Cost: -0.748639 Best match:D01910 With score: -0.748639
+D01910 Correct match at position: 0 Cost: -0.728939 Best match:D01911 With score: -0.728939
+D01911 Correct match at position: 0 Cost: -0.560751 Best match:D01912 With score: -0.560751
+D01912 Correct match at position: 0 Cost: -0.676034 Best match:D01913 With score: -0.676034
+D01913 Correct match at position: 0 Cost: -0.728769 Best match:D01914 With score: -0.728769
+D01914 Correct match at position: 0 Cost: -0.657854 Best match:D01915 With score: -0.657854
+D01915 Correct match at position: 0 Cost: -0.644267 Best match:D01916 With score: -0.644267
+D01916 Correct match at position: 0 Cost: -0.735027 Best match:D01917 With score: -0.735027
+D01917 Correct match at position: 0 Cost: -0.652549 Best match:D01918 With score: -0.652549
+D01918 Correct match at position: 0 Cost: -0.73312 Best match:D01919 With score: -0.73312
+D01919 Correct match at position: 0 Cost: -0.643985 Best match:D01920 With score: -0.643985
+D01920 Correct match at position: 0 Cost: -0.718581 Best match:D01921 With score: -0.718581
+D01921 Correct match at position: 0 Cost: -0.661878 Best match:D01922 With score: -0.661878
+D01922 Correct match at position: 0 Cost: -0.658287 Best match:D01923 With score: -0.658287
+D01923 Correct match at position: 0 Cost: -0.78436 Best match:D01924 With score: -0.78436
+D01924 Correct match at position: 0 Cost: -0.760297 Best match:D01925 With score: -0.760297
+D01925 Correct match at position: 0 Cost: -0.836325 Best match:D01926 With score: -0.836325
+D01926 Correct match at position: 0 Cost: -0.552073 Best match:D01927 With score: -0.552073
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02004 Correct match at position: 0 Cost: -0.772566 Best match:D02005 With score: -0.772566
+D02005 Correct match at position: 0 Cost: -0.762756 Best match:D02006 With score: -0.762756
+D02006 Correct match at position: 0 Cost: -0.730705 Best match:D02007 With score: -0.730705
+D02007 Correct match at position: 0 Cost: -0.717143 Best match:D02008 With score: -0.717143
+D02008 Correct match at position: 0 Cost: -0.607782 Best match:D02009 With score: -0.607782
+D02009 Correct match at position: 0 Cost: -0.672073 Best match:D02010 With score: -0.672073
+D02010 Correct match at position: 0 Cost: -0.739554 Best match:D02011 With score: -0.739554
+D02011 Correct match at position: 0 Cost: -0.743779 Best match:D02012 With score: -0.743779
+D02012 Correct match at position: 0 Cost: -0.797845 Best match:D02013 With score: -0.797845
+D02013 Correct match at position: 0 Cost: -0.64923 Best match:D02014 With score: -0.64923
+D02014 Correct match at position: 0 Cost: -0.745829 Best match:D02015 With score: -0.745829
+D02015 Correct match at position: 0 Cost: -0.763678 Best match:D02016 With score: -0.763678
+D02016 Correct match at position: 0 Cost: -0.62601 Best match:D02017 With score: -0.62601
+D02017 Correct match at position: 0 Cost: -0.751954 Best match:D02018 With score: -0.751954
+D02018 Correct match at position: 0 Cost: -0.729239 Best match:D02019 With score: -0.729239
+D02019 Correct match at position: 0 Cost: -0.658406 Best match:D02020 With score: -0.658406
+D02020 Correct match at position: 0 Cost: -0.869389 Best match:D02021 With score: -0.869389
+D02021 Correct match at position: 0 Cost: -0.822942 Best match:D02022 With score: -0.822942
+D02022 Correct match at position: 3 Cost: -0.465602 Best match:D02024 With score: -0.608127
+D02023 Correct match at position: 0 Cost: -0.815729 Best match:D02024 With score: -0.815729
+D02024 Correct match at position: 0 Cost: -0.806267 Best match:D02025 With score: -0.806267
+Average: 0.142857
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02106 Correct match at position: 0 Cost: -0.665937 Best match:D02107 With score: -0.665937
+D02107 Correct match at position: 0 Cost: -0.716495 Best match:D02108 With score: -0.716495
+D02108 Correct match at position: 0 Cost: -0.743518 Best match:D02109 With score: -0.743518
+D02109 Correct match at position: 0 Cost: -0.659576 Best match:D02110 With score: -0.659576
+D02110 Correct match at position: 0 Cost: -0.706572 Best match:D02111 With score: -0.706572
+D02111 Correct match at position: 0 Cost: -0.74973 Best match:D02112 With score: -0.74973
+D02112 Correct match at position: 0 Cost: -0.686171 Best match:D02113 With score: -0.686171
+D02113 Correct match at position: 1 Cost: -0.664189 Best match:D02109 With score: -0.669032
+D02114 Correct match at position: 0 Cost: -0.633521 Best match:D02115 With score: -0.633521
+D02115 Correct match at position: 0 Cost: -0.696626 Best match:D02116 With score: -0.696626
+D02116 Correct match at position: 0 Cost: -0.661516 Best match:D02117 With score: -0.661516
+D02117 Correct match at position: 0 Cost: -0.689217 Best match:D02118 With score: -0.689217
+D02118 Correct match at position: 0 Cost: -0.613193 Best match:D02119 With score: -0.613193
+D02119 Correct match at position: 0 Cost: -0.639174 Best match:D02120 With score: -0.639174
+D02120 Correct match at position: 0 Cost: -0.752514 Best match:D02121 With score: -0.752514
+D02121 Correct match at position: 0 Cost: -0.674232 Best match:D02122 With score: -0.674232
+D02122 Correct match at position: 0 Cost: -0.675874 Best match:D02123 With score: -0.675874
+D02123 Correct match at position: 0 Cost: -0.722154 Best match:D02124 With score: -0.722154
+D02124 Correct match at position: 0 Cost: -0.757526 Best match:D02125 With score: -0.757526
+D02125 Correct match at position: 0 Cost: -0.770395 Best match:D02126 With score: -0.770395
+D02126 Correct match at position: 0 Cost: -0.72034 Best match:D02127 With score: -0.72034
+Average: 0.047619
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02204 Correct match at position: 0 Cost: -0.788365 Best match:D02205 With score: -0.788365
+D02205 Correct match at position: 0 Cost: -0.794165 Best match:D02206 With score: -0.794165
+D02206 Correct match at position: 0 Cost: -0.778357 Best match:D02207 With score: -0.778357
+D02207 Correct match at position: 0 Cost: -0.659095 Best match:D02208 With score: -0.659095
+D02208 Correct match at position: 0 Cost: -0.675914 Best match:D02209 With score: -0.675914
+D02209 Correct match at position: 0 Cost: -0.742833 Best match:D02210 With score: -0.742833
+D02210 Correct match at position: 0 Cost: -0.619029 Best match:D02211 With score: -0.619029
+D02211 Correct match at position: 0 Cost: -0.635821 Best match:D02212 With score: -0.635821
+D02212 Correct match at position: 0 Cost: -0.709821 Best match:D02213 With score: -0.709821
+D02213 Correct match at position: 1 Cost: -0.643492 Best match:D02210 With score: -0.664599
+D02214 Correct match at position: 0 Cost: -0.665288 Best match:D02215 With score: -0.665288
+D02215 Correct match at position: 0 Cost: -0.682904 Best match:D02216 With score: -0.682904
+D02216 Correct match at position: 0 Cost: -0.614331 Best match:D02217 With score: -0.614331
+D02217 Correct match at position: 0 Cost: -0.664533 Best match:D02218 With score: -0.664533
+D02218 Correct match at position: 0 Cost: -0.683853 Best match:D02219 With score: -0.683853
+D02219 Correct match at position: 0 Cost: -0.791924 Best match:D02220 With score: -0.791924
+D02220 Correct match at position: 0 Cost: -0.744547 Best match:D02221 With score: -0.744547
+D02221 Correct match at position: 0 Cost: -0.597568 Best match:D02222 With score: -0.597568
+D02222 Correct match at position: 0 Cost: -0.698975 Best match:D02223 With score: -0.698975
+D02223 Correct match at position: 0 Cost: -0.740954 Best match:D02224 With score: -0.740954
+D02224 Correct match at position: 0 Cost: -0.784839 Best match:D02225 With score: -0.784839
+Average: 0.047619
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02306 Correct match at position: 0 Cost: -0.703184 Best match:D02307 With score: -0.703184
+D02307 Correct match at position: 0 Cost: -0.869577 Best match:D02308 With score: -0.869577
+D02308 Correct match at position: 0 Cost: -0.754315 Best match:D02309 With score: -0.754315
+D02309 Correct match at position: 0 Cost: -0.943478 Best match:D02310 With score: -0.943478
+D02310 Correct match at position: 0 Cost: -0.790327 Best match:D02311 With score: -0.790327
+D02311 Correct match at position: 0 Cost: -0.815096 Best match:D02312 With score: -0.815096
+D02312 Correct match at position: 0 Cost: -0.766983 Best match:D02313 With score: -0.766983
+D02313 Correct match at position: 0 Cost: -0.745403 Best match:D02314 With score: -0.745403
+D02314 Correct match at position: 0 Cost: -0.721441 Best match:D02315 With score: -0.721441
+D02315 Correct match at position: 0 Cost: -0.7881 Best match:D02316 With score: -0.7881
+D02316 Correct match at position: 0 Cost: -0.735579 Best match:D02317 With score: -0.735579
+D02317 Correct match at position: 0 Cost: -0.795461 Best match:D02318 With score: -0.795461
+D02318 Correct match at position: 0 Cost: -0.807772 Best match:D02319 With score: -0.807772
+D02319 Correct match at position: 0 Cost: -0.889676 Best match:D02320 With score: -0.889676
+D02320 Correct match at position: 0 Cost: -0.875344 Best match:D02321 With score: -0.875344
+D02321 Correct match at position: 1 Cost: -0.701452 Best match:D02319 With score: -0.708966
+D02322 Correct match at position: 0 Cost: -0.748501 Best match:D02323 With score: -0.748501
+D02323 Correct match at position: 1 Cost: -0.71518 Best match:D02326 With score: -0.736103
+D02324 Correct match at position: 0 Cost: -0.79229 Best match:D02325 With score: -0.79229
+D02325 Correct match at position: 0 Cost: -0.799805 Best match:D02326 With score: -0.799805
+D02326 Correct match at position: 1 Cost: -0.68417 Best match:D02321 With score: -0.693385
+Average: 0.142857
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02404 Correct match at position: 0 Cost: -0.837221 Best match:D02405 With score: -0.837221
+D02405 Correct match at position: 0 Cost: -0.7825 Best match:D02406 With score: -0.7825
+D02406 Correct match at position: 0 Cost: -0.823755 Best match:D02407 With score: -0.823755
+D02407 Correct match at position: 2 Cost: -0.64649 Best match:D02411 With score: -0.677007
+D02408 Correct match at position: 0 Cost: -0.822148 Best match:D02409 With score: -0.822148
+D02409 Correct match at position: 0 Cost: -0.813049 Best match:D02410 With score: -0.813049
+D02410 Correct match at position: 1 Cost: -0.682535 Best match:D02412 With score: -0.708184
+D02411 Correct match at position: 0 Cost: -0.694803 Best match:D02412 With score: -0.694803
+D02412 Correct match at position: 0 Cost: -0.665771 Best match:D02413 With score: -0.665771
+D02413 Correct match at position: 0 Cost: -0.728875 Best match:D02414 With score: -0.728875
+D02414 Correct match at position: 0 Cost: -0.732085 Best match:D02415 With score: -0.732085
+D02415 Correct match at position: 0 Cost: -0.811273 Best match:D02416 With score: -0.811273
+D02416 Correct match at position: 0 Cost: -0.858763 Best match:D02417 With score: -0.858763
+D02417 Correct match at position: 0 Cost: -0.783928 Best match:D02418 With score: -0.783928
+D02418 Correct match at position: 0 Cost: -0.781152 Best match:D02419 With score: -0.781152
+D02419 Correct match at position: 0 Cost: -0.739152 Best match:D02420 With score: -0.739152
+D02420 Correct match at position: 0 Cost: -0.82348 Best match:D02421 With score: -0.82348
+D02421 Correct match at position: 10 Cost: -0.588695 Best match:D02424 With score: -0.761045
+D02422 Correct match at position: 0 Cost: -0.685962 Best match:D02423 With score: -0.685962
+D02423 Correct match at position: 0 Cost: -0.798007 Best match:D02424 With score: -0.798007
+D02424 Correct match at position: 0 Cost: -0.808965 Best match:D02425 With score: -0.808965
+Average: 0.619048
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02505 Correct match at position: 0 Cost: -0.848204 Best match:D02506 With score: -0.848204
+D02506 Correct match at position: 0 Cost: -0.63048 Best match:D02507 With score: -0.63048
+D02507 Correct match at position: 0 Cost: -0.700697 Best match:D02508 With score: -0.700697
+D02508 Correct match at position: 11 Cost: -0.375868 Best match:D02525 With score: -0.604564
+D02509 Correct match at position: 0 Cost: -0.74916 Best match:D02510 With score: -0.74916
+D02510 Correct match at position: 0 Cost: -0.719181 Best match:D02511 With score: -0.719181
+D02511 Correct match at position: 0 Cost: -0.77138 Best match:D02512 With score: -0.77138
+D02512 Correct match at position: 0 Cost: -0.803226 Best match:D02513 With score: -0.803226
+D02513 Correct match at position: 0 Cost: -0.892953 Best match:D02514 With score: -0.892953
+D02514 Correct match at position: 0 Cost: -0.714029 Best match:D02515 With score: -0.714029
+D02515 Correct match at position: 0 Cost: -0.748141 Best match:D02516 With score: -0.748141
+D02516 Correct match at position: 7 Cost: -0.512535 Best match:D02525 With score: -0.639007
+D02517 Correct match at position: 0 Cost: -0.69926 Best match:D02518 With score: -0.69926
+D02518 Correct match at position: 0 Cost: -0.747867 Best match:D02519 With score: -0.747867
+D02519 Correct match at position: 0 Cost: -0.681732 Best match:D02520 With score: -0.681732
+D02520 Correct match at position: 0 Cost: -0.800194 Best match:D02521 With score: -0.800194
+D02521 Correct match at position: 0 Cost: -0.716532 Best match:D02522 With score: -0.716532
+D02522 Correct match at position: 0 Cost: -0.632015 Best match:D02523 With score: -0.632015
+D02523 Correct match at position: 0 Cost: -0.6656 Best match:D02524 With score: -0.6656
+D02524 Correct match at position: 0 Cost: -0.798723 Best match:D02525 With score: -0.798723
+D02525 Correct match at position: 0 Cost: -0.654973 Best match:D02526 With score: -0.654973
+Average: 0.857143
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02606 Correct match at position: 0 Cost: -0.811293 Best match:D02607 With score: -0.811293
+D02607 Correct match at position: 0 Cost: -0.70406 Best match:D02608 With score: -0.70406
+D02608 Correct match at position: 0 Cost: -0.837859 Best match:D02609 With score: -0.837859
+D02609 Correct match at position: 0 Cost: -0.821298 Best match:D02610 With score: -0.821298
+D02610 Correct match at position: 0 Cost: -0.741542 Best match:D02611 With score: -0.741542
+D02611 Correct match at position: 0 Cost: -0.634849 Best match:D02612 With score: -0.634849
+D02612 Correct match at position: 0 Cost: -0.722529 Best match:D02613 With score: -0.722529
+D02613 Correct match at position: 0 Cost: -0.59507 Best match:D02614 With score: -0.59507
+D02614 Correct match at position: 0 Cost: -0.637353 Best match:D02615 With score: -0.637353
+D02615 Correct match at position: 0 Cost: -0.7871 Best match:D02616 With score: -0.7871
+D02616 Correct match at position: 0 Cost: -0.675068 Best match:D02617 With score: -0.675068
+D02617 Correct match at position: 0 Cost: -0.839949 Best match:D02618 With score: -0.839949
+D02618 Correct match at position: 0 Cost: -0.816165 Best match:D02619 With score: -0.816165
+D02619 Correct match at position: 0 Cost: -0.802665 Best match:D02620 With score: -0.802665
+D02620 Correct match at position: 0 Cost: -0.664558 Best match:D02621 With score: -0.664558
+D02621 Correct match at position: 0 Cost: -0.770799 Best match:D02622 With score: -0.770799
+D02622 Correct match at position: 0 Cost: -0.737917 Best match:D02623 With score: -0.737917
+D02623 Correct match at position: 0 Cost: -0.696463 Best match:D02624 With score: -0.696463
+D02624 Correct match at position: 0 Cost: -0.794343 Best match:D02625 With score: -0.794343
+D02625 Correct match at position: 0 Cost: -0.79959 Best match:D02626 With score: -0.79959
+D02626 Correct match at position: 0 Cost: -0.808423 Best match:D02627 With score: -0.808423
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02704 Correct match at position: 1 Cost: -0.864886 Best match:D02706 With score: -0.866799
+D02705 Correct match at position: 0 Cost: -0.896748 Best match:D02706 With score: -0.896748
+D02706 Correct match at position: 0 Cost: -0.854116 Best match:D02707 With score: -0.854116
+D02707 Correct match at position: 0 Cost: -0.822351 Best match:D02708 With score: -0.822351
+D02708 Correct match at position: 0 Cost: -0.839818 Best match:D02709 With score: -0.839818
+D02709 Correct match at position: 0 Cost: -0.81676 Best match:D02710 With score: -0.81676
+D02710 Correct match at position: 0 Cost: -0.822571 Best match:D02711 With score: -0.822571
+D02711 Correct match at position: 0 Cost: -0.810655 Best match:D02712 With score: -0.810655
+D02712 Correct match at position: 0 Cost: -0.827298 Best match:D02713 With score: -0.827298
+D02713 Correct match at position: 0 Cost: -0.905619 Best match:D02714 With score: -0.905619
+D02714 Correct match at position: 0 Cost: -0.811051 Best match:D02715 With score: -0.811051
+D02715 Correct match at position: 0 Cost: -0.859152 Best match:D02716 With score: -0.859152
+D02716 Correct match at position: 0 Cost: -0.831174 Best match:D02717 With score: -0.831174
+D02717 Correct match at position: 0 Cost: -0.853403 Best match:D02718 With score: -0.853403
+D02718 Correct match at position: 0 Cost: -0.865971 Best match:D02719 With score: -0.865971
+D02719 Correct match at position: 0 Cost: -0.850876 Best match:D02720 With score: -0.850876
+D02720 Correct match at position: 0 Cost: -0.765163 Best match:D02721 With score: -0.765163
+D02721 Correct match at position: 0 Cost: -0.838039 Best match:D02722 With score: -0.838039
+D02722 Correct match at position: 0 Cost: -0.862091 Best match:D02723 With score: -0.862091
+D02723 Correct match at position: 0 Cost: -0.882776 Best match:D02724 With score: -0.882776
+D02724 Correct match at position: 0 Cost: -0.893021 Best match:D02725 With score: -0.893021
+Average: 0.047619
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02806 Correct match at position: 0 Cost: -0.688596 Best match:D02807 With score: -0.688596
+D02807 Correct match at position: 0 Cost: -0.839574 Best match:D02808 With score: -0.839574
+D02808 Correct match at position: 0 Cost: -0.936333 Best match:D02809 With score: -0.936333
+D02809 Correct match at position: 0 Cost: -0.782262 Best match:D02810 With score: -0.782262
+D02810 Correct match at position: 0 Cost: -0.904366 Best match:D02811 With score: -0.904366
+D02811 Correct match at position: 0 Cost: -0.795775 Best match:D02812 With score: -0.795775
+D02812 Correct match at position: 0 Cost: -0.852907 Best match:D02813 With score: -0.852907
+D02813 Correct match at position: 0 Cost: -0.842741 Best match:D02814 With score: -0.842741
+D02814 Correct match at position: 0 Cost: -0.806993 Best match:D02815 With score: -0.806993
+D02815 Correct match at position: 0 Cost: -0.790754 Best match:D02816 With score: -0.790754
+D02816 Correct match at position: 0 Cost: -0.830692 Best match:D02817 With score: -0.830692
+D02817 Correct match at position: 0 Cost: -0.82923 Best match:D02818 With score: -0.82923
+D02818 Correct match at position: 0 Cost: -0.808023 Best match:D02819 With score: -0.808023
+D02819 Correct match at position: 0 Cost: -0.894989 Best match:D02820 With score: -0.894989
+D02820 Correct match at position: 0 Cost: -0.896255 Best match:D02821 With score: -0.896255
+D02821 Correct match at position: 0 Cost: -0.736383 Best match:D02822 With score: -0.736383
+D02822 Correct match at position: 0 Cost: -0.852724 Best match:D02823 With score: -0.852724
+D02823 Correct match at position: 0 Cost: -0.811204 Best match:D02824 With score: -0.811204
+D02824 Correct match at position: 0 Cost: -0.830732 Best match:D02825 With score: -0.830732
+D02825 Correct match at position: 0 Cost: -0.885923 Best match:D02826 With score: -0.885923
+D02826 Correct match at position: 5 Cost: -0.670532 Best match:D02819 With score: -0.762125
+Average: 0.238095
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D02904 Correct match at position: 0 Cost: -0.830597 Best match:D02905 With score: -0.830597
+D02905 Correct match at position: 0 Cost: -0.776855 Best match:D02906 With score: -0.776855
+D02906 Correct match at position: 0 Cost: -0.688679 Best match:D02907 With score: -0.688679
+D02907 Correct match at position: 3 Cost: -0.696517 Best match:D02905 With score: -0.707828
+D02908 Correct match at position: 1 Cost: -0.690074 Best match:D02905 With score: -0.734315
+D02909 Correct match at position: 0 Cost: -0.584161 Best match:D02910 With score: -0.584161
+D02910 Correct match at position: 1 Cost: -0.576632 Best match:D02905 With score: -0.615978
+D02911 Correct match at position: 0 Cost: -0.73468 Best match:D02912 With score: -0.73468
+D02912 Correct match at position: 0 Cost: -0.728806 Best match:D02913 With score: -0.728806
+D02913 Correct match at position: 0 Cost: -0.668333 Best match:D02914 With score: -0.668333
+D02914 Correct match at position: 0 Cost: -0.717683 Best match:D02915 With score: -0.717683
+D02915 Correct match at position: 0 Cost: -0.632326 Best match:D02916 With score: -0.632326
+D02916 Correct match at position: 1 Cost: -0.637057 Best match:D02918 With score: -0.63893
+D02917 Correct match at position: 0 Cost: -0.866896 Best match:D02918 With score: -0.866896
+D02918 Correct match at position: 1 Cost: -0.615251 Best match:D02920 With score: -0.700183
+D02919 Correct match at position: 0 Cost: -0.742571 Best match:D02920 With score: -0.742571
+D02920 Correct match at position: 1 Cost: -0.611519 Best match:D02919 With score: -0.621165
+D02921 Correct match at position: 0 Cost: -0.754628 Best match:D02922 With score: -0.754628
+D02922 Correct match at position: 0 Cost: -0.770233 Best match:D02923 With score: -0.770233
+D02923 Correct match at position: 0 Cost: -0.715591 Best match:D02924 With score: -0.715591
+D02924 Correct match at position: 0 Cost: -0.72032 Best match:D02925 With score: -0.72032
+Average: 0.380952
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03005 Correct match at position: 0 Cost: -0.982887 Best match:D03006 With score: -0.982887
+D03006 Correct match at position: 0 Cost: -0.844519 Best match:D03007 With score: -0.844519
+D03007 Correct match at position: 0 Cost: -0.89364 Best match:D03008 With score: -0.89364
+D03008 Correct match at position: 0 Cost: -0.896635 Best match:D03009 With score: -0.896635
+D03009 Correct match at position: 0 Cost: -0.9086 Best match:D03010 With score: -0.9086
+D03010 Correct match at position: 0 Cost: -0.761037 Best match:D03011 With score: -0.761037
+D03011 Correct match at position: 1 Cost: -0.66732 Best match:D03015 With score: -0.702383
+D03012 Correct match at position: 0 Cost: -0.861888 Best match:D03013 With score: -0.861888
+D03013 Correct match at position: 0 Cost: -0.723064 Best match:D03014 With score: -0.723064
+D03014 Correct match at position: 0 Cost: -0.892419 Best match:D03015 With score: -0.892419
+D03015 Correct match at position: 0 Cost: -0.778012 Best match:D03016 With score: -0.778012
+D03016 Correct match at position: 0 Cost: -0.856022 Best match:D03017 With score: -0.856022
+D03017 Correct match at position: 0 Cost: -0.757286 Best match:D03018 With score: -0.757286
+D03018 Correct match at position: 0 Cost: -0.76762 Best match:D03019 With score: -0.76762
+D03019 Correct match at position: 0 Cost: -0.856958 Best match:D03020 With score: -0.856958
+D03020 Correct match at position: 0 Cost: -0.838173 Best match:D03021 With score: -0.838173
+D03021 Correct match at position: 0 Cost: -0.859607 Best match:D03022 With score: -0.859607
+D03022 Correct match at position: 0 Cost: -0.794158 Best match:D03023 With score: -0.794158
+D03023 Correct match at position: 0 Cost: -0.814103 Best match:D03024 With score: -0.814103
+D03024 Correct match at position: 0 Cost: -0.893947 Best match:D03025 With score: -0.893947
+D03025 Correct match at position: 0 Cost: -0.827708 Best match:D03026 With score: -0.827708
+Average: 0.047619
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03105 Correct match at position: 0 Cost: -0.899513 Best match:D03106 With score: -0.899513
+D03106 Correct match at position: 0 Cost: -0.674342 Best match:D03107 With score: -0.674342
+D03107 Correct match at position: 0 Cost: -0.864805 Best match:D03108 With score: -0.864805
+D03108 Correct match at position: 0 Cost: -0.940243 Best match:D03109 With score: -0.940243
+D03109 Correct match at position: 0 Cost: -0.952285 Best match:D03110 With score: -0.952285
+D03110 Correct match at position: 0 Cost: -0.8602 Best match:D03111 With score: -0.8602
+D03111 Correct match at position: 0 Cost: -0.881974 Best match:D03112 With score: -0.881974
+D03112 Correct match at position: 0 Cost: -0.924491 Best match:D03113 With score: -0.924491
+D03113 Correct match at position: 0 Cost: -0.815725 Best match:D03114 With score: -0.815725
+D03114 Correct match at position: 0 Cost: -0.846842 Best match:D03115 With score: -0.846842
+D03115 Correct match at position: 0 Cost: -0.799649 Best match:D03116 With score: -0.799649
+D03116 Correct match at position: 0 Cost: -0.723512 Best match:D03117 With score: -0.723512
+D03117 Correct match at position: 0 Cost: -0.867397 Best match:D03118 With score: -0.867397
+D03118 Correct match at position: 0 Cost: -0.836383 Best match:D03119 With score: -0.836383
+D03119 Correct match at position: 0 Cost: -0.828719 Best match:D03120 With score: -0.828719
+D03120 Correct match at position: 0 Cost: -0.840364 Best match:D03121 With score: -0.840364
+D03121 Correct match at position: 0 Cost: -0.81036 Best match:D03122 With score: -0.81036
+D03122 Correct match at position: 0 Cost: -0.822016 Best match:D03123 With score: -0.822016
+D03123 Correct match at position: 0 Cost: -0.77001 Best match:D03124 With score: -0.77001
+D03124 Correct match at position: 0 Cost: -0.924369 Best match:D03125 With score: -0.924369
+D03125 Correct match at position: 0 Cost: -0.538655 Best match:D03126 With score: -0.538655
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03205 Correct match at position: 0 Cost: -0.951578 Best match:D03206 With score: -0.951578
+D03206 Correct match at position: 0 Cost: -0.776802 Best match:D03207 With score: -0.776802
+D03207 Correct match at position: 0 Cost: -0.870605 Best match:D03208 With score: -0.870605
+D03208 Correct match at position: 0 Cost: -0.858001 Best match:D03209 With score: -0.858001
+D03209 Correct match at position: 0 Cost: -0.777182 Best match:D03210 With score: -0.777182
+D03210 Correct match at position: 0 Cost: -0.900752 Best match:D03211 With score: -0.900752
+D03211 Correct match at position: 0 Cost: -0.834768 Best match:D03212 With score: -0.834768
+D03212 Correct match at position: 0 Cost: -0.850141 Best match:D03213 With score: -0.850141
+D03213 Correct match at position: 0 Cost: -0.775203 Best match:D03214 With score: -0.775203
+D03214 Correct match at position: 0 Cost: -0.887507 Best match:D03215 With score: -0.887507
+D03215 Correct match at position: 0 Cost: -0.888587 Best match:D03216 With score: -0.888587
+D03216 Correct match at position: 0 Cost: -0.899853 Best match:D03217 With score: -0.899853
+D03217 Correct match at position: 0 Cost: -0.865838 Best match:D03218 With score: -0.865838
+D03218 Correct match at position: 0 Cost: -0.836646 Best match:D03219 With score: -0.836646
+D03219 Correct match at position: 0 Cost: -0.79656 Best match:D03220 With score: -0.79656
+D03220 Correct match at position: 0 Cost: -0.829488 Best match:D03221 With score: -0.829488
+D03221 Correct match at position: 0 Cost: -0.862146 Best match:D03222 With score: -0.862146
+D03222 Correct match at position: 0 Cost: -0.827299 Best match:D03223 With score: -0.827299
+D03223 Correct match at position: 0 Cost: -0.835945 Best match:D03224 With score: -0.835945
+D03224 Correct match at position: 0 Cost: -0.972768 Best match:D03225 With score: -0.972768
+D03225 Correct match at position: 0 Cost: -0.878374 Best match:D03226 With score: -0.878374
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03305 Correct match at position: 0 Cost: -0.784765 Best match:D03306 With score: -0.784765
+D03306 Correct match at position: 0 Cost: -0.890732 Best match:D03307 With score: -0.890732
+D03307 Correct match at position: 0 Cost: -0.752624 Best match:D03308 With score: -0.752624
+D03308 Correct match at position: 0 Cost: -0.907214 Best match:D03309 With score: -0.907214
+D03309 Correct match at position: 0 Cost: -0.884513 Best match:D03310 With score: -0.884513
+D03310 Correct match at position: 0 Cost: -0.890824 Best match:D03311 With score: -0.890824
+D03311 Correct match at position: 0 Cost: -0.811432 Best match:D03312 With score: -0.811432
+D03312 Correct match at position: 0 Cost: -0.893061 Best match:D03313 With score: -0.893061
+D03313 Correct match at position: 0 Cost: -0.90197 Best match:D03314 With score: -0.90197
+D03314 Correct match at position: 1 Cost: -0.811977 Best match:D03316 With score: -0.830046
+D03315 Correct match at position: 0 Cost: -0.887525 Best match:D03316 With score: -0.887525
+D03316 Correct match at position: 2 Cost: -0.83759 Best match:D03319 With score: -0.854982
+D03317 Correct match at position: 0 Cost: -0.877671 Best match:D03318 With score: -0.877671
+D03318 Correct match at position: 0 Cost: -0.893403 Best match:D03319 With score: -0.893403
+D03319 Correct match at position: 0 Cost: -0.7906 Best match:D03320 With score: -0.7906
+D03320 Correct match at position: 0 Cost: -0.826424 Best match:D03321 With score: -0.826424
+D03321 Correct match at position: 0 Cost: -0.961869 Best match:D03322 With score: -0.961869
+D03322 Correct match at position: 0 Cost: -0.957278 Best match:D03323 With score: -0.957278
+D03323 Correct match at position: 0 Cost: -0.850749 Best match:D03324 With score: -0.850749
+D03324 Correct match at position: 0 Cost: -0.82506 Best match:D03325 With score: -0.82506
+D03325 Correct match at position: 0 Cost: -0.999152 Best match:D03326 With score: -0.999152
+Average: 0.142857
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03405 Correct match at position: 0 Cost: -0.969001 Best match:D03406 With score: -0.969001
+D03406 Correct match at position: 0 Cost: -0.754017 Best match:D03407 With score: -0.754017
+D03407 Correct match at position: 0 Cost: -0.671993 Best match:D03408 With score: -0.671993
+D03408 Correct match at position: 0 Cost: -0.848574 Best match:D03409 With score: -0.848574
+D03409 Correct match at position: 0 Cost: -0.861712 Best match:D03410 With score: -0.861712
+D03410 Correct match at position: 0 Cost: -0.853156 Best match:D03411 With score: -0.853156
+D03411 Correct match at position: 0 Cost: -0.741963 Best match:D03412 With score: -0.741963
+D03412 Correct match at position: 0 Cost: -0.851596 Best match:D03413 With score: -0.851596
+D03413 Correct match at position: 0 Cost: -0.734621 Best match:D03414 With score: -0.734621
+D03414 Correct match at position: 0 Cost: -0.833657 Best match:D03415 With score: -0.833657
+D03415 Correct match at position: 0 Cost: -0.897703 Best match:D03416 With score: -0.897703
+D03416 Correct match at position: 0 Cost: -0.756067 Best match:D03417 With score: -0.756067
+D03417 Correct match at position: 0 Cost: -0.79289 Best match:D03418 With score: -0.79289
+D03418 Correct match at position: 0 Cost: -0.823062 Best match:D03419 With score: -0.823062
+D03419 Correct match at position: 0 Cost: -0.824621 Best match:D03420 With score: -0.824621
+D03420 Correct match at position: 0 Cost: -0.715061 Best match:D03421 With score: -0.715061
+D03421 Correct match at position: 0 Cost: -0.709836 Best match:D03422 With score: -0.709836
+D03422 Correct match at position: 0 Cost: -0.779981 Best match:D03423 With score: -0.779981
+D03423 Correct match at position: 0 Cost: -0.836106 Best match:D03424 With score: -0.836106
+D03424 Correct match at position: 0 Cost: -0.932207 Best match:D03425 With score: -0.932207
+D03425 Correct match at position: 0 Cost: -0.773649 Best match:D03426 With score: -0.773649
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03505 Correct match at position: 0 Cost: -0.749174 Best match:D03506 With score: -0.749174
+D03506 Correct match at position: 0 Cost: -0.793935 Best match:D03507 With score: -0.793935
+D03507 Correct match at position: 1 Cost: -0.314719 Best match:D03506 With score: -0.679443
+D03508 Correct match at position: 0 Cost: -0.991791 Best match:D03509 With score: -0.991791
+D03509 Correct match at position: 0 Cost: -0.852268 Best match:D03510 With score: -0.852268
+D03510 Correct match at position: 0 Cost: -0.70904 Best match:D03511 With score: -0.70904
+D03511 Correct match at position: 0 Cost: -0.82924 Best match:D03512 With score: -0.82924
+D03512 Correct match at position: 0 Cost: -0.706062 Best match:D03513 With score: -0.706062
+D03513 Correct match at position: 0 Cost: -0.721067 Best match:D03514 With score: -0.721067
+D03514 Correct match at position: 0 Cost: -0.719913 Best match:D03515 With score: -0.719913
+D03515 Correct match at position: 0 Cost: -0.722389 Best match:D03516 With score: -0.722389
+D03516 Correct match at position: 0 Cost: -0.848493 Best match:D03517 With score: -0.848493
+D03517 Correct match at position: 0 Cost: -0.703826 Best match:D03518 With score: -0.703826
+D03518 Correct match at position: 0 Cost: -0.810745 Best match:D03519 With score: -0.810745
+D03519 Correct match at position: 0 Cost: -0.726646 Best match:D03520 With score: -0.726646
+D03520 Correct match at position: 0 Cost: -0.665906 Best match:D03521 With score: -0.665906
+D03521 Correct match at position: 0 Cost: -0.743064 Best match:D03522 With score: -0.743064
+D03522 Correct match at position: 0 Cost: -0.907659 Best match:D03523 With score: -0.907659
+D03523 Correct match at position: 0 Cost: -0.978822 Best match:D03524 With score: -0.978822
+D03524 Correct match at position: 0 Cost: -0.972613 Best match:D03525 With score: -0.972613
+D03525 Correct match at position: 0 Cost: -0.570734 Best match:D03526 With score: -0.570734
+Average: 0.047619
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03605 Correct match at position: 0 Cost: -0.864543 Best match:D03606 With score: -0.864543
+D03606 Correct match at position: 0 Cost: -0.821066 Best match:D03607 With score: -0.821066
+D03607 Correct match at position: 0 Cost: -0.875466 Best match:D03608 With score: -0.875466
+D03608 Correct match at position: 0 Cost: -0.584392 Best match:D03609 With score: -0.584392
+D03609 Correct match at position: 0 Cost: -0.861795 Best match:D03610 With score: -0.861795
+D03610 Correct match at position: 0 Cost: -0.741143 Best match:D03611 With score: -0.741143
+D03611 Correct match at position: 0 Cost: -0.832962 Best match:D03612 With score: -0.832962
+D03612 Correct match at position: 0 Cost: -0.879785 Best match:D03613 With score: -0.879785
+D03613 Correct match at position: 0 Cost: -0.813504 Best match:D03614 With score: -0.813504
+D03614 Correct match at position: 0 Cost: -0.915677 Best match:D03615 With score: -0.915677
+D03615 Correct match at position: 0 Cost: -0.775232 Best match:D03616 With score: -0.775232
+D03616 Correct match at position: 0 Cost: -0.76195 Best match:D03617 With score: -0.76195
+D03617 Correct match at position: 0 Cost: -0.822943 Best match:D03618 With score: -0.822943
+D03618 Correct match at position: 0 Cost: -0.888933 Best match:D03619 With score: -0.888933
+D03619 Correct match at position: 0 Cost: -0.826248 Best match:D03620 With score: -0.826248
+D03620 Correct match at position: 0 Cost: -0.884291 Best match:D03621 With score: -0.884291
+D03621 Correct match at position: 0 Cost: -0.741601 Best match:D03622 With score: -0.741601
+D03622 Correct match at position: 0 Cost: -0.832683 Best match:D03623 With score: -0.832683
+D03623 Correct match at position: 0 Cost: -0.782553 Best match:D03624 With score: -0.782553
+D03624 Correct match at position: 0 Cost: -0.794454 Best match:D03625 With score: -0.794454
+D03625 Correct match at position: 0 Cost: -0.9214 Best match:D03626 With score: -0.9214
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03705 Correct match at position: 0 Cost: -0.870227 Best match:D03706 With score: -0.870227
+D03706 Correct match at position: 0 Cost: -0.806442 Best match:D03707 With score: -0.806442
+D03707 Correct match at position: 0 Cost: -0.68951 Best match:D03708 With score: -0.68951
+D03708 Correct match at position: 5 Cost: -0.510896 Best match:D03711 With score: -0.595166
+D03709 Correct match at position: 0 Cost: -0.626946 Best match:D03710 With score: -0.626946
+D03710 Correct match at position: 0 Cost: -0.808207 Best match:D03711 With score: -0.808207
+D03711 Correct match at position: 0 Cost: -0.850741 Best match:D03712 With score: -0.850741
+D03712 Correct match at position: 0 Cost: -0.815319 Best match:D03713 With score: -0.815319
+D03713 Correct match at position: 0 Cost: -0.743128 Best match:D03714 With score: -0.743128
+D03714 Correct match at position: 0 Cost: -0.849227 Best match:D03715 With score: -0.849227
+D03715 Correct match at position: 0 Cost: -0.708409 Best match:D03716 With score: -0.708409
+D03716 Correct match at position: 0 Cost: -0.763375 Best match:D03717 With score: -0.763375
+D03717 Correct match at position: 0 Cost: -0.718672 Best match:D03718 With score: -0.718672
+D03718 Correct match at position: 0 Cost: -0.740531 Best match:D03719 With score: -0.740531
+D03719 Correct match at position: 0 Cost: -0.930002 Best match:D03720 With score: -0.930002
+D03720 Correct match at position: 0 Cost: -0.769833 Best match:D03721 With score: -0.769833
+D03721 Correct match at position: 0 Cost: -0.824928 Best match:D03722 With score: -0.824928
+D03722 Correct match at position: 0 Cost: -0.778403 Best match:D03723 With score: -0.778403
+D03723 Correct match at position: 1 Cost: -0.570375 Best match:D03717 With score: -0.57714
+D03724 Correct match at position: 0 Cost: -0.721005 Best match:D03725 With score: -0.721005
+D03725 Correct match at position: 0 Cost: -0.833912 Best match:D03726 With score: -0.833912
+Average: 0.285714
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03805 Correct match at position: 0 Cost: -0.849512 Best match:D03806 With score: -0.849512
+D03806 Correct match at position: 0 Cost: -0.86061 Best match:D03807 With score: -0.86061
+D03807 Correct match at position: 0 Cost: -0.787754 Best match:D03808 With score: -0.787754
+D03808 Correct match at position: 0 Cost: -0.648812 Best match:D03809 With score: -0.648812
+D03809 Correct match at position: 0 Cost: -0.834151 Best match:D03810 With score: -0.834151
+D03810 Correct match at position: 0 Cost: -0.858267 Best match:D03811 With score: -0.858267
+D03811 Correct match at position: 0 Cost: -0.877707 Best match:D03812 With score: -0.877707
+D03812 Correct match at position: 0 Cost: -0.860346 Best match:D03813 With score: -0.860346
+D03813 Correct match at position: 0 Cost: -0.854576 Best match:D03814 With score: -0.854576
+D03814 Correct match at position: 0 Cost: -0.873082 Best match:D03815 With score: -0.873082
+D03815 Correct match at position: 0 Cost: -0.813974 Best match:D03816 With score: -0.813974
+D03816 Correct match at position: 0 Cost: -0.852518 Best match:D03817 With score: -0.852518
+D03817 Correct match at position: 0 Cost: -0.815033 Best match:D03818 With score: -0.815033
+D03818 Correct match at position: 0 Cost: -0.786678 Best match:D03819 With score: -0.786678
+D03819 Correct match at position: 0 Cost: -0.780064 Best match:D03820 With score: -0.780064
+D03820 Correct match at position: 0 Cost: -0.809021 Best match:D03821 With score: -0.809021
+D03821 Correct match at position: 0 Cost: -0.890168 Best match:D03822 With score: -0.890168
+D03822 Correct match at position: 0 Cost: -0.910011 Best match:D03823 With score: -0.910011
+D03823 Correct match at position: 0 Cost: -0.849624 Best match:D03824 With score: -0.849624
+D03824 Correct match at position: 0 Cost: -0.868649 Best match:D03825 With score: -0.868649
+D03825 Correct match at position: 0 Cost: -0.951155 Best match:D03826 With score: -0.951155
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D03905 Correct match at position: 0 Cost: -0.905297 Best match:D03906 With score: -0.905297
+D03906 Correct match at position: 0 Cost: -0.905287 Best match:D03907 With score: -0.905287
+D03907 Correct match at position: 0 Cost: -0.778067 Best match:D03908 With score: -0.778067
+D03908 Correct match at position: 0 Cost: -0.585154 Best match:D03909 With score: -0.585154
+D03909 Correct match at position: 0 Cost: -0.758192 Best match:D03910 With score: -0.758192
+D03910 Correct match at position: 0 Cost: -0.845028 Best match:D03911 With score: -0.845028
+D03911 Correct match at position: 0 Cost: -0.801345 Best match:D03912 With score: -0.801345
+D03912 Correct match at position: 0 Cost: -0.743172 Best match:D03913 With score: -0.743172
+D03913 Correct match at position: 0 Cost: -0.855336 Best match:D03914 With score: -0.855336
+D03914 Correct match at position: 0 Cost: -0.784525 Best match:D03915 With score: -0.784525
+D03915 Correct match at position: 0 Cost: -0.651515 Best match:D03916 With score: -0.651515
+D03916 Correct match at position: 0 Cost: -0.797888 Best match:D03917 With score: -0.797888
+D03917 Correct match at position: 0 Cost: -0.737494 Best match:D03918 With score: -0.737494
+D03918 Correct match at position: 0 Cost: -0.696014 Best match:D03919 With score: -0.696014
+D03919 Correct match at position: 0 Cost: -0.731843 Best match:D03920 With score: -0.731843
+D03920 Correct match at position: 0 Cost: -0.867369 Best match:D03921 With score: -0.867369
+D03921 Correct match at position: 0 Cost: -0.772356 Best match:D03922 With score: -0.772356
+D03922 Correct match at position: 0 Cost: -0.763556 Best match:D03923 With score: -0.763556
+D03923 Correct match at position: 0 Cost: -0.819993 Best match:D03924 With score: -0.819993
+D03924 Correct match at position: 0 Cost: -0.791389 Best match:D03925 With score: -0.791389
+D03925 Correct match at position: 0 Cost: -0.86094 Best match:D03926 With score: -0.86094
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04005 Correct match at position: 0 Cost: -0.845865 Best match:D04006 With score: -0.845865
+D04006 Correct match at position: 0 Cost: -0.977805 Best match:D04007 With score: -0.977805
+D04007 Correct match at position: 0 Cost: -0.856873 Best match:D04008 With score: -0.856873
+D04008 Correct match at position: 4 Cost: -0.55633 Best match:D04015 With score: -0.638434
+D04009 Correct match at position: 0 Cost: -0.868773 Best match:D04010 With score: -0.868773
+D04010 Correct match at position: 0 Cost: -0.733619 Best match:D04011 With score: -0.733619
+D04011 Correct match at position: 0 Cost: -0.770963 Best match:D04012 With score: -0.770963
+D04012 Correct match at position: 0 Cost: -0.863839 Best match:D04013 With score: -0.863839
+D04013 Correct match at position: 0 Cost: -0.779173 Best match:D04014 With score: -0.779173
+D04014 Correct match at position: 0 Cost: -0.930324 Best match:D04015 With score: -0.930324
+D04015 Correct match at position: 0 Cost: -0.776056 Best match:D04016 With score: -0.776056
+D04016 Correct match at position: 0 Cost: -0.864086 Best match:D04017 With score: -0.864086
+D04017 Correct match at position: 0 Cost: -0.845947 Best match:D04018 With score: -0.845947
+D04018 Correct match at position: 0 Cost: -0.836366 Best match:D04019 With score: -0.836366
+D04019 Correct match at position: 0 Cost: -0.86689 Best match:D04020 With score: -0.86689
+D04020 Correct match at position: 0 Cost: -0.85287 Best match:D04021 With score: -0.85287
+D04021 Correct match at position: 0 Cost: -0.781032 Best match:D04022 With score: -0.781032
+D04022 Correct match at position: 0 Cost: -0.829819 Best match:D04023 With score: -0.829819
+D04023 Correct match at position: 0 Cost: -0.900116 Best match:D04024 With score: -0.900116
+D04024 Correct match at position: 0 Cost: -0.814981 Best match:D04025 With score: -0.814981
+D04025 Correct match at position: 0 Cost: -0.881656 Best match:D04026 With score: -0.881656
+Average: 0.190476
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04105 Correct match at position: 0 Cost: -0.883034 Best match:D04106 With score: -0.883034
+D04106 Correct match at position: 0 Cost: -0.882193 Best match:D04107 With score: -0.882193
+D04107 Correct match at position: 0 Cost: -0.880814 Best match:D04108 With score: -0.880814
+D04108 Correct match at position: 0 Cost: -0.502866 Best match:D04109 With score: -0.502866
+D04109 Correct match at position: 0 Cost: -0.745134 Best match:D04110 With score: -0.745134
+D04110 Correct match at position: 0 Cost: -0.81572 Best match:D04111 With score: -0.81572
+D04111 Correct match at position: 0 Cost: -0.75697 Best match:D04112 With score: -0.75697
+D04112 Correct match at position: 0 Cost: -0.898339 Best match:D04113 With score: -0.898339
+D04113 Correct match at position: 0 Cost: -0.875052 Best match:D04114 With score: -0.875052
+D04114 Correct match at position: 0 Cost: -0.864187 Best match:D04115 With score: -0.864187
+D04115 Correct match at position: 0 Cost: -0.853136 Best match:D04116 With score: -0.853136
+D04116 Correct match at position: 0 Cost: -0.879545 Best match:D04117 With score: -0.879545
+D04117 Correct match at position: 0 Cost: -0.758846 Best match:D04118 With score: -0.758846
+D04118 Correct match at position: 0 Cost: -0.871149 Best match:D04119 With score: -0.871149
+D04119 Correct match at position: 0 Cost: -0.776446 Best match:D04120 With score: -0.776446
+D04120 Correct match at position: 0 Cost: -0.862706 Best match:D04121 With score: -0.862706
+D04121 Correct match at position: 0 Cost: -0.837559 Best match:D04122 With score: -0.837559
+D04122 Correct match at position: 0 Cost: -0.90219 Best match:D04123 With score: -0.90219
+D04123 Correct match at position: 0 Cost: -0.970996 Best match:D04124 With score: -0.970996
+D04124 Correct match at position: 0 Cost: -0.843137 Best match:D04125 With score: -0.843137
+D04125 Correct match at position: 0 Cost: -0.803918 Best match:D04126 With score: -0.803918
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04205 Correct match at position: 0 Cost: -0.811449 Best match:D04206 With score: -0.811449
+D04206 Correct match at position: 0 Cost: -0.769566 Best match:D04207 With score: -0.769566
+D04207 Correct match at position: 0 Cost: -0.899797 Best match:D04208 With score: -0.899797
+D04208 Correct match at position: 0 Cost: -0.755622 Best match:D04209 With score: -0.755622
+D04209 Correct match at position: 0 Cost: -0.860637 Best match:D04210 With score: -0.860637
+D04210 Correct match at position: 0 Cost: -0.909147 Best match:D04211 With score: -0.909147
+D04211 Correct match at position: 0 Cost: -0.882234 Best match:D04212 With score: -0.882234
+D04212 Correct match at position: 0 Cost: -0.927041 Best match:D04213 With score: -0.927041
+D04213 Correct match at position: 0 Cost: -0.855701 Best match:D04214 With score: -0.855701
+D04214 Correct match at position: 0 Cost: -0.926861 Best match:D04215 With score: -0.926861
+D04215 Correct match at position: 0 Cost: -0.855534 Best match:D04216 With score: -0.855534
+D04216 Correct match at position: 0 Cost: -0.798726 Best match:D04217 With score: -0.798726
+D04217 Correct match at position: 0 Cost: -0.844911 Best match:D04218 With score: -0.844911
+D04218 Correct match at position: 0 Cost: -0.782708 Best match:D04219 With score: -0.782708
+D04219 Correct match at position: 0 Cost: -0.864646 Best match:D04220 With score: -0.864646
+D04220 Correct match at position: 4 Cost: -0.620761 Best match:D04217 With score: -0.710383
+D04221 Correct match at position: 0 Cost: -0.857727 Best match:D04222 With score: -0.857727
+D04222 Correct match at position: 1 Cost: -0.86926 Best match:D04228 With score: -0.923947
+D04223 Correct match at position: 0 Cost: -0.865345 Best match:D04224 With score: -0.865345
+D04224 Correct match at position: 0 Cost: -0.923663 Best match:D04225 With score: -0.923663
+D04225 Correct match at position: 0 Cost: -0.887694 Best match:D04226 With score: -0.887694
+D04226 Correct match at position: 0 Cost: -0.862612 Best match:D04227 With score: -0.862612
+D04227 Correct match at position: 0 Cost: -0.99817 Best match:D04228 With score: -0.99817
+Average: 0.217391
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04305 Correct match at position: 0 Cost: -0.792526 Best match:D04306 With score: -0.792526
+D04306 Correct match at position: 0 Cost: -0.856514 Best match:D04307 With score: -0.856514
+D04307 Correct match at position: 0 Cost: -0.639195 Best match:D04308 With score: -0.639195
+D04308 Correct match at position: 0 Cost: -0.753792 Best match:D04309 With score: -0.753792
+D04309 Correct match at position: 0 Cost: -0.892934 Best match:D04310 With score: -0.892934
+D04310 Correct match at position: 0 Cost: -0.80337 Best match:D04311 With score: -0.80337
+D04311 Correct match at position: 0 Cost: -0.85847 Best match:D04312 With score: -0.85847
+D04312 Correct match at position: 0 Cost: -0.794067 Best match:D04313 With score: -0.794067
+D04313 Correct match at position: 0 Cost: -0.841388 Best match:D04314 With score: -0.841388
+D04314 Correct match at position: 0 Cost: -0.685104 Best match:D04315 With score: -0.685104
+D04315 Correct match at position: 1 Cost: -0.77803 Best match:D04328 With score: -0.786746
+D04316 Correct match at position: 0 Cost: -0.896971 Best match:D04317 With score: -0.896971
+D04317 Correct match at position: 0 Cost: -0.665927 Best match:D04318 With score: -0.665927
+D04318 Correct match at position: 0 Cost: -0.818404 Best match:D04319 With score: -0.818404
+D04319 Correct match at position: 0 Cost: -0.835577 Best match:D04320 With score: -0.835577
+D04320 Correct match at position: 0 Cost: -0.851667 Best match:D04321 With score: -0.851667
+D04321 Correct match at position: 0 Cost: -0.873727 Best match:D04322 With score: -0.873727
+D04322 Correct match at position: 0 Cost: -0.798024 Best match:D04323 With score: -0.798024
+D04323 Correct match at position: 0 Cost: -0.731006 Best match:D04324 With score: -0.731006
+D04324 Correct match at position: 0 Cost: -0.676683 Best match:D04325 With score: -0.676683
+D04325 Correct match at position: 0 Cost: -0.926629 Best match:D04326 With score: -0.926629
+D04326 Correct match at position: 0 Cost: -0.92162 Best match:D04327 With score: -0.92162
+D04327 Correct match at position: 0 Cost: -0.767341 Best match:D04328 With score: -0.767341
+Average: 0.0434783
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04405 Correct match at position: 0 Cost: -0.936979 Best match:D04406 With score: -0.936979
+D04406 Correct match at position: 0 Cost: -0.930227 Best match:D04407 With score: -0.930227
+D04407 Correct match at position: 0 Cost: -0.846456 Best match:D04408 With score: -0.846456
+D04408 Correct match at position: 1 Cost: -0.592604 Best match:D04427 With score: -0.623387
+D04409 Correct match at position: 0 Cost: -0.994506 Best match:D04410 With score: -0.994506
+D04410 Correct match at position: 6 Cost: -0.424116 Best match:D04413 With score: -0.640104
+D04411 Correct match at position: 0 Cost: -0.77549 Best match:D04412 With score: -0.77549
+D04412 Correct match at position: 0 Cost: -0.762092 Best match:D04413 With score: -0.762092
+D04413 Correct match at position: 1 Cost: -0.752695 Best match:D04418 With score: -0.825463
+D04414 Correct match at position: 0 Cost: -0.61088 Best match:D04415 With score: -0.61088
+D04415 Correct match at position: 2 Cost: -0.549497 Best match:D04412 With score: -0.590499
+D04416 Correct match at position: 2 Cost: -0.601173 Best match:D04414 With score: -0.675195
+D04417 Correct match at position: 3 Cost: -0.518257 Best match:D04415 With score: -0.668295
+D04418 Correct match at position: 1 Cost: -0.679 Best match:D04411 With score: -0.722254
+D04419 Correct match at position: 0 Cost: -0.571069 Best match:D04420 With score: -0.571069
+D04420 Correct match at position: 0 Cost: -0.652639 Best match:D04421 With score: -0.652639
+D04421 Correct match at position: 2 Cost: -0.592904 Best match:D04411 With score: -0.706993
+D04422 Correct match at position: 1 Cost: -0.725565 Best match:D04424 With score: -0.731959
+D04423 Correct match at position: 0 Cost: -0.8573 Best match:D04424 With score: -0.8573
+D04424 Correct match at position: 0 Cost: -0.852423 Best match:D04425 With score: -0.852423
+D04425 Correct match at position: 0 Cost: -0.851322 Best match:D04426 With score: -0.851322
+D04426 Correct match at position: 0 Cost: -0.857605 Best match:D04427 With score: -0.857605
+Average: 0.863636
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04505 Correct match at position: 0 Cost: -0.79902 Best match:D04506 With score: -0.79902
+D04506 Correct match at position: 0 Cost: -0.718923 Best match:D04507 With score: -0.718923
+D04507 Correct match at position: 0 Cost: -0.889566 Best match:D04508 With score: -0.889566
+D04508 Correct match at position: 0 Cost: -0.817075 Best match:D04509 With score: -0.817075
+D04509 Correct match at position: 0 Cost: -0.726139 Best match:D04510 With score: -0.726139
+D04510 Correct match at position: 0 Cost: -0.749005 Best match:D04511 With score: -0.749005
+D04511 Correct match at position: 7 Cost: -0.399278 Best match:D04510 With score: -0.602617
+D04512 Correct match at position: 0 Cost: -0.635901 Best match:D04513 With score: -0.635901
+D04513 Correct match at position: 0 Cost: -0.532696 Best match:D04514 With score: -0.532696
+D04514 Correct match at position: 3 Cost: -0.610213 Best match:D04522 With score: -0.735549
+D04515 Correct match at position: 1 Cost: -0.714388 Best match:D04522 With score: -0.722679
+D04516 Correct match at position: 0 Cost: -0.659427 Best match:D04517 With score: -0.659427
+D04517 Correct match at position: 0 Cost: -0.791212 Best match:D04518 With score: -0.791212
+D04518 Correct match at position: 0 Cost: -0.601137 Best match:D04519 With score: -0.601137
+D04519 Correct match at position: 0 Cost: -0.757241 Best match:D04520 With score: -0.757241
+D04520 Correct match at position: 5 Cost: -0.587335 Best match:D04522 With score: -0.777314
+D04521 Correct match at position: 0 Cost: -0.927558 Best match:D04522 With score: -0.927558
+D04522 Correct match at position: 0 Cost: -0.915274 Best match:D04523 With score: -0.915274
+D04523 Correct match at position: 0 Cost: -0.811314 Best match:D04524 With score: -0.811314
+D04524 Correct match at position: 0 Cost: -0.915333 Best match:D04525 With score: -0.915333
+D04525 Correct match at position: 0 Cost: -0.907727 Best match:D04526 With score: -0.907727
+D04526 Correct match at position: 0 Cost: -0.832098 Best match:D04527 With score: -0.832098
+Average: 0.727273
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04605 Correct match at position: 0 Cost: -0.921915 Best match:D04606 With score: -0.921915
+D04606 Correct match at position: 0 Cost: -0.908679 Best match:D04607 With score: -0.908679
+D04607 Correct match at position: 0 Cost: -0.790775 Best match:D04608 With score: -0.790775
+D04608 Correct match at position: 0 Cost: -0.732718 Best match:D04609 With score: -0.732718
+D04609 Correct match at position: 0 Cost: -0.868649 Best match:D04610 With score: -0.868649
+D04610 Correct match at position: 1 Cost: -0.817901 Best match:D04614 With score: -0.866694
+D04611 Correct match at position: 1 Cost: -0.768097 Best match:D04610 With score: -0.768411
+D04612 Correct match at position: 0 Cost: -0.923745 Best match:D04613 With score: -0.923745
+D04613 Correct match at position: 0 Cost: -0.918857 Best match:D04614 With score: -0.918857
+D04614 Correct match at position: 0 Cost: -0.69455 Best match:D04615 With score: -0.69455
+D04615 Correct match at position: 1 Cost: -0.792487 Best match:D04628 With score: -0.836404
+D04616 Correct match at position: 0 Cost: -0.642844 Best match:D04617 With score: -0.642844
+D04617 Correct match at position: 0 Cost: -0.657847 Best match:D04618 With score: -0.657847
+D04618 Correct match at position: 0 Cost: -0.852608 Best match:D04619 With score: -0.852608
+D04619 Correct match at position: 2 Cost: -0.738682 Best match:D04621 With score: -0.740109
+D04620 Correct match at position: 0 Cost: -0.910936 Best match:D04621 With score: -0.910936
+D04621 Correct match at position: 0 Cost: -0.710898 Best match:D04622 With score: -0.710898
+D04622 Correct match at position: 0 Cost: -0.913452 Best match:D04623 With score: -0.913452
+D04623 Correct match at position: 0 Cost: -0.745928 Best match:D04624 With score: -0.745928
+D04624 Correct match at position: 0 Cost: -0.794758 Best match:D04625 With score: -0.794758
+D04625 Correct match at position: 0 Cost: -0.900554 Best match:D04626 With score: -0.900554
+D04626 Correct match at position: 0 Cost: -0.860602 Best match:D04627 With score: -0.860602
+D04627 Correct match at position: 0 Cost: -0.918723 Best match:D04628 With score: -0.918723
+Average: 0.217391
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04705 Correct match at position: 0 Cost: -0.858543 Best match:D04706 With score: -0.858543
+D04706 Correct match at position: 0 Cost: -0.921667 Best match:D04707 With score: -0.921667
+D04707 Correct match at position: 0 Cost: -0.872636 Best match:D04708 With score: -0.872636
+D04708 Correct match at position: 0 Cost: -0.833236 Best match:D04709 With score: -0.833236
+D04709 Correct match at position: 0 Cost: -0.90728 Best match:D04710 With score: -0.90728
+D04710 Correct match at position: 0 Cost: -0.743113 Best match:D04711 With score: -0.743113
+D04711 Correct match at position: 0 Cost: -0.790538 Best match:D04712 With score: -0.790538
+D04712 Correct match at position: 0 Cost: -0.882581 Best match:D04713 With score: -0.882581
+D04713 Correct match at position: 0 Cost: -0.831377 Best match:D04714 With score: -0.831377
+D04714 Correct match at position: 0 Cost: -0.943196 Best match:D04715 With score: -0.943196
+D04715 Correct match at position: 0 Cost: -0.895973 Best match:D04716 With score: -0.895973
+D04716 Correct match at position: 0 Cost: -0.775578 Best match:D04717 With score: -0.775578
+D04717 Correct match at position: 0 Cost: -0.7911 Best match:D04718 With score: -0.7911
+D04718 Correct match at position: 0 Cost: -0.907553 Best match:D04719 With score: -0.907553
+D04719 Correct match at position: 0 Cost: -0.918444 Best match:D04720 With score: -0.918444
+D04720 Correct match at position: 0 Cost: -0.825028 Best match:D04721 With score: -0.825028
+D04721 Correct match at position: 0 Cost: -0.811085 Best match:D04722 With score: -0.811085
+D04722 Correct match at position: 0 Cost: -0.860081 Best match:D04723 With score: -0.860081
+D04723 Correct match at position: 4 Cost: -0.550185 Best match:D04713 With score: -0.593231
+D04724 Correct match at position: 0 Cost: -0.780597 Best match:D04725 With score: -0.780597
+D04725 Correct match at position: 0 Cost: -0.972416 Best match:D04726 With score: -0.972416
+D04726 Correct match at position: 0 Cost: -0.826832 Best match:D04727 With score: -0.826832
+D04727 Correct match at position: 0 Cost: -0.874153 Best match:D04728 With score: -0.874153
+Average: 0.173913
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04805 Correct match at position: 0 Cost: -0.894345 Best match:D04806 With score: -0.894345
+D04806 Correct match at position: 0 Cost: -0.680757 Best match:D04807 With score: -0.680757
+D04807 Correct match at position: 4 Cost: -0.671843 Best match:D04814 With score: -0.752146
+D04808 Correct match at position: 1 Cost: -0.802948 Best match:D04821 With score: -0.832782
+D04809 Correct match at position: 0 Cost: -0.666971 Best match:D04810 With score: -0.666971
+D04810 Correct match at position: 0 Cost: -0.864924 Best match:D04811 With score: -0.864924
+D04811 Correct match at position: 0 Cost: -0.73374 Best match:D04812 With score: -0.73374
+D04812 Correct match at position: 0 Cost: -0.878933 Best match:D04813 With score: -0.878933
+D04813 Correct match at position: 0 Cost: -0.773137 Best match:D04814 With score: -0.773137
+D04814 Correct match at position: 0 Cost: -0.887473 Best match:D04815 With score: -0.887473
+D04815 Correct match at position: 0 Cost: -0.883808 Best match:D04816 With score: -0.883808
+D04816 Correct match at position: 0 Cost: -0.712794 Best match:D04817 With score: -0.712794
+D04817 Correct match at position: 1 Cost: -0.816781 Best match:D04821 With score: -0.8301
+D04818 Correct match at position: 0 Cost: -0.802677 Best match:D04819 With score: -0.802677
+D04819 Correct match at position: 1 Cost: -0.631663 Best match:D04811 With score: -0.677645
+D04820 Correct match at position: 0 Cost: -0.907842 Best match:D04821 With score: -0.907842
+D04821 Correct match at position: 11 Cost: -0.499126 Best match:D04824 With score: -0.788016
+D04822 Correct match at position: 1 Cost: -0.593972 Best match:D04809 With score: -0.652007
+D04823 Correct match at position: 0 Cost: -0.735468 Best match:D04824 With score: -0.735468
+D04824 Correct match at position: 0 Cost: -0.715543 Best match:D04825 With score: -0.715543
+D04825 Correct match at position: 0 Cost: -0.787022 Best match:D04826 With score: -0.787022
+D04826 Correct match at position: 0 Cost: -0.998492 Best match:D04827 With score: -0.998492
+Average: 0.863636
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D04905 Correct match at position: 4 Cost: -0.499152 Best match:D04909 With score: -0.598973
+D04906 Correct match at position: 2 Cost: -0.499411 Best match:D04912 With score: -0.499553
+D04907 Correct match at position: 0 Cost: -0.998504 Best match:D04908 With score: -0.998504
+D04908 Correct match at position: 0 Cost: -0.966357 Best match:D04909 With score: -0.966357
+D04909 Correct match at position: 0 Cost: -0.787639 Best match:D04910 With score: -0.787639
+D04910 Correct match at position: 0 Cost: -0.998673 Best match:D04911 With score: -0.998673
+D04911 Correct match at position: 7 Cost: -0.599347 Best match:D04909 With score: -0.643488
+D04912 Correct match at position: 0 Cost: -0.911357 Best match:D04913 With score: -0.911357
+D04913 Correct match at position: 0 Cost: -0.978617 Best match:D04914 With score: -0.978617
+D04914 Correct match at position: 3 Cost: -0.798265 Best match:D04909 With score: -0.874847
+D04915 Correct match at position: 3 Cost: -0.782535 Best match:D04914 With score: -0.802503
+D04916 Correct match at position: 0 Cost: -0.962496 Best match:D04917 With score: -0.962496
+D04917 Correct match at position: 0 Cost: -0.769056 Best match:D04918 With score: -0.769056
+D04918 Correct match at position: 0 Cost: -0.767311 Best match:D04919 With score: -0.767311
+D04919 Correct match at position: 3 Cost: -0.740892 Best match:D04918 With score: -0.773971
+D04920 Correct match at position: 0 Cost: -0.923381 Best match:D04921 With score: -0.923381
+D04921 Correct match at position: 10 Cost: -0.633235 Best match:D04917 With score: -0.961655
+D04922 Correct match at position: 0 Cost: -0.951163 Best match:D04923 With score: -0.951163
+D04923 Correct match at position: 2 Cost: -0.748567 Best match:D04917 With score: -0.895385
+D04924 Correct match at position: 7 Cost: -0.682681 Best match:D04928 With score: -0.852502
+D04925 Correct match at position: 0 Cost: -0.662144 Best match:D04926 With score: -0.662144
+D04926 Correct match at position: 0 Cost: -0.921664 Best match:D04927 With score: -0.921664
+D04927 Correct match at position: 1 Cost: -0.673668 Best match:D04925 With score: -0.816825
+Average: 1.82609
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05005 Correct match at position: 2 Cost: -0.64678 Best match:D05008 With score: -0.751035
+D05006 Correct match at position: 0 Cost: -0.966019 Best match:D05007 With score: -0.966019
+D05007 Correct match at position: 0 Cost: -0.861362 Best match:D05008 With score: -0.861362
+D05008 Correct match at position: 0 Cost: -0.844283 Best match:D05009 With score: -0.844283
+D05009 Correct match at position: 0 Cost: -0.77565 Best match:D05010 With score: -0.77565
+D05010 Correct match at position: 1 Cost: -0.813298 Best match:D05019 With score: -0.82136
+D05011 Correct match at position: 0 Cost: -0.878994 Best match:D05012 With score: -0.878994
+D05012 Correct match at position: 0 Cost: -0.973692 Best match:D05013 With score: -0.973692
+D05013 Correct match at position: 0 Cost: -0.742204 Best match:D05014 With score: -0.742204
+D05014 Correct match at position: 0 Cost: -0.98102 Best match:D05015 With score: -0.98102
+D05015 Correct match at position: 0 Cost: -0.772664 Best match:D05016 With score: -0.772664
+D05016 Correct match at position: 0 Cost: -0.970931 Best match:D05017 With score: -0.970931
+D05017 Correct match at position: 0 Cost: -0.862374 Best match:D05018 With score: -0.862374
+D05018 Correct match at position: 0 Cost: -0.78819 Best match:D05019 With score: -0.78819
+D05019 Correct match at position: 0 Cost: -0.976444 Best match:D05020 With score: -0.976444
+D05020 Correct match at position: 0 Cost: -0.684445 Best match:D05021 With score: -0.684445
+D05021 Correct match at position: 0 Cost: -0.891974 Best match:D05022 With score: -0.891974
+D05022 Correct match at position: 0 Cost: -0.987121 Best match:D05023 With score: -0.987121
+D05023 Correct match at position: 0 Cost: -0.971113 Best match:D05024 With score: -0.971113
+D05024 Correct match at position: 0 Cost: -0.974395 Best match:D05025 With score: -0.974395
+D05025 Correct match at position: 3 Cost: -0.637346 Best match:D05023 With score: -0.94068
+D05026 Correct match at position: 0 Cost: -0.964478 Best match:D05027 With score: -0.964478
+Average: 0.272727
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05105 Correct match at position: 0 Cost: -0.659727 Best match:D05106 With score: -0.659727
+D05106 Correct match at position: 0 Cost: -0.661221 Best match:D05107 With score: -0.661221
+D05107 Correct match at position: 0 Cost: -0.757461 Best match:D05108 With score: -0.757461
+D05108 Correct match at position: 0 Cost: -0.708689 Best match:D05109 With score: -0.708689
+D05109 Correct match at position: 0 Cost: -0.820363 Best match:D05110 With score: -0.820363
+D05110 Correct match at position: 0 Cost: -0.76744 Best match:D05111 With score: -0.76744
+D05111 Correct match at position: 1 Cost: -0.765509 Best match:D05114 With score: -0.775416
+D05112 Correct match at position: 0 Cost: -0.703223 Best match:D05113 With score: -0.703223
+D05113 Correct match at position: 0 Cost: -0.866876 Best match:D05114 With score: -0.866876
+D05114 Correct match at position: 1 Cost: -0.80764 Best match:D05119 With score: -0.817633
+D05115 Correct match at position: 0 Cost: -0.930049 Best match:D05116 With score: -0.930049
+D05116 Correct match at position: 0 Cost: -0.754872 Best match:D05117 With score: -0.754872
+D05117 Correct match at position: 0 Cost: -0.849419 Best match:D05118 With score: -0.849419
+D05118 Correct match at position: 0 Cost: -0.897721 Best match:D05119 With score: -0.897721
+D05119 Correct match at position: 0 Cost: -0.956308 Best match:D05120 With score: -0.956308
+D05120 Correct match at position: 0 Cost: -0.832088 Best match:D05121 With score: -0.832088
+D05121 Correct match at position: 0 Cost: -0.960094 Best match:D05122 With score: -0.960094
+D05122 Correct match at position: 0 Cost: -0.826649 Best match:D05123 With score: -0.826649
+D05123 Correct match at position: 0 Cost: -0.590257 Best match:D05124 With score: -0.590257
+D05124 Correct match at position: 2 Cost: -0.709431 Best match:D05122 With score: -0.934319
+D05125 Correct match at position: 0 Cost: -0.955744 Best match:D05126 With score: -0.955744
+D05126 Correct match at position: 0 Cost: -0.833554 Best match:D05127 With score: -0.833554
+Average: 0.181818
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05205 Correct match at position: 0 Cost: -0.964785 Best match:D05206 With score: -0.964785
+D05206 Correct match at position: 0 Cost: -0.941433 Best match:D05207 With score: -0.941433
+D05207 Correct match at position: 0 Cost: -0.768127 Best match:D05208 With score: -0.768127
+D05208 Correct match at position: 0 Cost: -0.916259 Best match:D05209 With score: -0.916259
+D05209 Correct match at position: 0 Cost: -0.979889 Best match:D05210 With score: -0.979889
+D05210 Correct match at position: 0 Cost: -0.974957 Best match:D05211 With score: -0.974957
+D05211 Correct match at position: 0 Cost: -0.934724 Best match:D05212 With score: -0.934724
+D05212 Correct match at position: 1 Cost: -0.934142 Best match:D05228 With score: -0.955861
+D05213 Correct match at position: 0 Cost: -0.983602 Best match:D05214 With score: -0.983602
+D05214 Correct match at position: 0 Cost: -0.654602 Best match:D05215 With score: -0.654602
+D05215 Correct match at position: 0 Cost: -0.83465 Best match:D05216 With score: -0.83465
+D05216 Correct match at position: 0 Cost: -0.998508 Best match:D05217 With score: -0.998508
+D05217 Correct match at position: 0 Cost: -0.873359 Best match:D05218 With score: -0.873359
+D05218 Correct match at position: 4 Cost: -0.848546 Best match:D05220 With score: -0.935377
+D05219 Correct match at position: 0 Cost: -0.9448 Best match:D05220 With score: -0.9448
+D05220 Correct match at position: 4 Cost: -0.725052 Best match:D05228 With score: -0.971922
+D05221 Correct match at position: 0 Cost: -0.863421 Best match:D05222 With score: -0.863421
+D05222 Correct match at position: 0 Cost: -0.883121 Best match:D05223 With score: -0.883121
+D05223 Correct match at position: 0 Cost: -0.788453 Best match:D05224 With score: -0.788453
+D05224 Correct match at position: 0 Cost: -0.993505 Best match:D05225 With score: -0.993505
+D05225 Correct match at position: 0 Cost: -0.855854 Best match:D05226 With score: -0.855854
+D05226 Correct match at position: 0 Cost: -0.88286 Best match:D05227 With score: -0.88286
+D05227 Correct match at position: 1 Cost: -0.887276 Best match:D05217 With score: -0.89832
+Average: 0.434783
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05305 Correct match at position: 0 Cost: -0.871121 Best match:D05306 With score: -0.871121
+D05306 Correct match at position: 0 Cost: -0.999207 Best match:D05307 With score: -0.999207
+D05307 Correct match at position: 0 Cost: -0.998991 Best match:D05308 With score: -0.998991
+D05308 Correct match at position: 11 Cost: -0.222049 Best match:D05311 With score: -0.89633
+D05309 Correct match at position: 2 Cost: -0.336314 Best match:D05322 With score: -0.563367
+D05310 Correct match at position: 1 Cost: -0.958137 Best match:D05308 With score: -0.965622
+D05311 Correct match at position: 0 Cost: -0.499431 Best match:D05312 With score: -0.499431
+D05312 Correct match at position: 0 Cost: -0.783661 Best match:D05313 With score: -0.783661
+D05313 Correct match at position: 0 Cost: -0.784405 Best match:D05314 With score: -0.784405
+D05314 Correct match at position: 1 Cost: -0.465864 Best match:D05321 With score: -0.565622
+D05315 Correct match at position: 3 Cost: -0.343976 Best match:D05322 With score: -0.560013
+D05316 Correct match at position: 0 Cost: -0.635041 Best match:D05317 With score: -0.635041
+D05317 Correct match at position: 0 Cost: -0.687957 Best match:D05318 With score: -0.687957
+D05318 Correct match at position: 0 Cost: -0.578829 Best match:D05319 With score: -0.578829
+D05319 Correct match at position: 4 Cost: -0.203848 Best match:D05326 With score: -0.275968
+D05320 Correct match at position: 0 Cost: -0.666076 Best match:D05321 With score: -0.666076
+D05321 Correct match at position: 0 Cost: -0.908521 Best match:D05322 With score: -0.908521
+D05322 Correct match at position: 0 Cost: -0.4894 Best match:D05323 With score: -0.4894
+D05323 Correct match at position: 0 Cost: -0.932797 Best match:D05324 With score: -0.932797
+D05324 Correct match at position: 0 Cost: -0.999069 Best match:D05325 With score: -0.999069
+D05325 Correct match at position: 1 Cost: -0.532128 Best match:D05322 With score: -0.778293
+D05326 Correct match at position: 0 Cost: -0.766248 Best match:D05327 With score: -0.766248
+Average: 1.04545
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05405 Correct match at position: 0 Cost: -0.75693 Best match:D05406 With score: -0.75693
+D05406 Correct match at position: 0 Cost: -0.720839 Best match:D05407 With score: -0.720839
+D05407 Correct match at position: 0 Cost: -0.824185 Best match:D05408 With score: -0.824185
+D05408 Correct match at position: 0 Cost: -0.65749 Best match:D05409 With score: -0.65749
+D05409 Correct match at position: 0 Cost: -0.59077 Best match:D05410 With score: -0.59077
+D05410 Correct match at position: 0 Cost: -0.710814 Best match:D05411 With score: -0.710814
+D05411 Correct match at position: 0 Cost: -0.832756 Best match:D05412 With score: -0.832756
+D05412 Correct match at position: 0 Cost: -0.738019 Best match:D05413 With score: -0.738019
+D05413 Correct match at position: 0 Cost: -0.811064 Best match:D05414 With score: -0.811064
+D05414 Correct match at position: 0 Cost: -0.845522 Best match:D05415 With score: -0.845522
+D05415 Correct match at position: 0 Cost: -0.779565 Best match:D05416 With score: -0.779565
+D05416 Correct match at position: 0 Cost: -0.832297 Best match:D05417 With score: -0.832297
+D05417 Correct match at position: 0 Cost: -0.653764 Best match:D05418 With score: -0.653764
+D05418 Correct match at position: 0 Cost: -0.777752 Best match:D05419 With score: -0.777752
+D05419 Correct match at position: 0 Cost: -0.618121 Best match:D05420 With score: -0.618121
+D05420 Correct match at position: 0 Cost: -0.707691 Best match:D05421 With score: -0.707691
+D05421 Correct match at position: 0 Cost: -0.715097 Best match:D05422 With score: -0.715097
+D05422 Correct match at position: 0 Cost: -0.650073 Best match:D05423 With score: -0.650073
+D05423 Correct match at position: 0 Cost: -0.656538 Best match:D05424 With score: -0.656538
+D05424 Correct match at position: 0 Cost: -0.837908 Best match:D05425 With score: -0.837908
+D05425 Correct match at position: 0 Cost: -0.980156 Best match:D05426 With score: -0.980156
+D05426 Correct match at position: 0 Cost: -0.702837 Best match:D05427 With score: -0.702837
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05505 Correct match at position: 0 Cost: -0.816381 Best match:D05506 With score: -0.816381
+D05506 Correct match at position: 0 Cost: -0.831932 Best match:D05507 With score: -0.831932
+D05507 Correct match at position: 0 Cost: -0.817673 Best match:D05508 With score: -0.817673
+D05508 Correct match at position: 0 Cost: -0.799948 Best match:D05509 With score: -0.799948
+D05509 Correct match at position: 0 Cost: -0.885102 Best match:D05510 With score: -0.885102
+D05510 Correct match at position: 0 Cost: -0.951754 Best match:D05511 With score: -0.951754
+D05511 Correct match at position: 0 Cost: -0.859067 Best match:D05512 With score: -0.859067
+D05512 Correct match at position: 1 Cost: -0.603475 Best match:D05511 With score: -0.618507
+D05513 Correct match at position: 1 Cost: -0.598377 Best match:D05518 With score: -0.613575
+D05514 Correct match at position: 2 Cost: -0.677677 Best match:D05511 With score: -0.753711
+D05515 Correct match at position: 0 Cost: -0.614157 Best match:D05516 With score: -0.614157
+D05516 Correct match at position: 0 Cost: -0.860716 Best match:D05517 With score: -0.860716
+D05517 Correct match at position: 0 Cost: -0.933009 Best match:D05518 With score: -0.933009
+D05518 Correct match at position: 0 Cost: -0.87001 Best match:D05519 With score: -0.87001
+D05519 Correct match at position: 0 Cost: -0.948774 Best match:D05520 With score: -0.948774
+D05520 Correct match at position: 0 Cost: -0.830497 Best match:D05521 With score: -0.830497
+D05521 Correct match at position: 0 Cost: -0.654299 Best match:D05522 With score: -0.654299
+D05522 Correct match at position: 0 Cost: -0.697186 Best match:D05523 With score: -0.697186
+D05523 Correct match at position: 0 Cost: -0.793865 Best match:D05524 With score: -0.793865
+D05524 Correct match at position: 0 Cost: -0.578253 Best match:D05525 With score: -0.578253
+D05525 Correct match at position: 0 Cost: -0.941264 Best match:D05526 With score: -0.941264
+D05526 Correct match at position: 0 Cost: -0.835056 Best match:D05527 With score: -0.835056
+Average: 0.181818
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05605 Correct match at position: 0 Cost: -0.749565 Best match:D05606 With score: -0.749565
+D05606 Correct match at position: 0 Cost: -0.949369 Best match:D05607 With score: -0.949369
+D05607 Correct match at position: 0 Cost: -0.748441 Best match:D05608 With score: -0.748441
+D05608 Correct match at position: 0 Cost: -0.79912 Best match:D05609 With score: -0.79912
+D05609 Correct match at position: 1 Cost: -0.712843 Best match:D05608 With score: -0.767845
+D05610 Correct match at position: 0 Cost: -0.499169 Best match:D05611 With score: -0.499169
+D05611 Correct match at position: 0 Cost: -0.554859 Best match:D05612 With score: -0.554859
+D05612 Correct match at position: 0 Cost: -0.72788 Best match:D05613 With score: -0.72788
+D05613 Correct match at position: 0 Cost: -0.615932 Best match:D05614 With score: -0.615932
+D05614 Correct match at position: 0 Cost: -0.748573 Best match:D05615 With score: -0.748573
+D05615 Correct match at position: 0 Cost: -0.670969 Best match:D05616 With score: -0.670969
+D05616 Correct match at position: 0 Cost: -0.519199 Best match:D05617 With score: -0.519199
+D05617 Correct match at position: 0 Cost: -0.694487 Best match:D05618 With score: -0.694487
+D05618 Correct match at position: 0 Cost: -0.713911 Best match:D05619 With score: -0.713911
+D05619 Correct match at position: 0 Cost: -0.545217 Best match:D05620 With score: -0.545217
+D05620 Correct match at position: 0 Cost: -0.510165 Best match:D05621 With score: -0.510165
+D05621 Correct match at position: 0 Cost: -0.393975 Best match:D05622 With score: -0.393975
+D05622 Correct match at position: 0 Cost: -0.499038 Best match:D05623 With score: -0.499038
+D05623 Correct match at position: 0 Cost: -0.665396 Best match:D05624 With score: -0.665396
+D05624 Correct match at position: 0 Cost: -0.665651 Best match:D05625 With score: -0.665651
+D05625 Correct match at position: 0 Cost: -0.998157 Best match:D05626 With score: -0.998157
+D05626 Correct match at position: 0 Cost: -0.599169 Best match:D05627 With score: -0.599169
+Average: 0.0454545
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05705 Correct match at position: 0 Cost: -0.998837 Best match:D05706 With score: -0.998837
+D05706 Correct match at position: 0 Cost: -0.7992 Best match:D05707 With score: -0.7992
+D05707 Correct match at position: 6 Cost: -0.635219 Best match:D05719 With score: -0.813549
+D05708 Correct match at position: 0 Cost: -0.715887 Best match:D05709 With score: -0.715887
+D05709 Correct match at position: 0 Cost: -0.709802 Best match:D05710 With score: -0.709802
+D05710 Correct match at position: 0 Cost: -0.580982 Best match:D05711 With score: -0.580982
+D05711 Correct match at position: 1 Cost: -0.464873 Best match:D05726 With score: -0.599327
+D05712 Correct match at position: 4 Cost: -0.535171 Best match:D05720 With score: -0.716918
+D05713 Correct match at position: 0 Cost: -0.592488 Best match:D05714 With score: -0.592488
+D05714 Correct match at position: 0 Cost: -0.593014 Best match:D05715 With score: -0.593014
+D05715 Correct match at position: 0 Cost: -0.737843 Best match:D05716 With score: -0.737843
+D05716 Correct match at position: 1 Cost: -0.527138 Best match:D05707 With score: -0.799035
+D05717 Correct match at position: 0 Cost: -0.595429 Best match:D05718 With score: -0.595429
+D05718 Correct match at position: 0 Cost: -0.828878 Best match:D05719 With score: -0.828878
+D05719 Correct match at position: 0 Cost: -0.622733 Best match:D05720 With score: -0.622733
+D05720 Correct match at position: 1 Cost: -0.643451 Best match:D05725 With score: -0.681918
+D05721 Correct match at position: 0 Cost: -0.735954 Best match:D05722 With score: -0.735954
+D05722 Correct match at position: 0 Cost: -0.848941 Best match:D05723 With score: -0.848941
+D05723 Correct match at position: 0 Cost: -0.685393 Best match:D05724 With score: -0.685393
+D05724 Correct match at position: 1 Cost: -0.59847 Best match:D05722 With score: -0.643022
+D05725 Correct match at position: 0 Cost: -0.748645 Best match:D05726 With score: -0.748645
+D05726 Correct match at position: 0 Cost: -0.998945 Best match:D05727 With score: -0.998945
+Average: 0.636364
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05805 Correct match at position: 0 Cost: -0.892335 Best match:D05806 With score: -0.892335
+D05806 Correct match at position: 0 Cost: -0.848182 Best match:D05807 With score: -0.848182
+D05807 Correct match at position: 0 Cost: -0.812036 Best match:D05808 With score: -0.812036
+D05808 Correct match at position: 0 Cost: -0.770084 Best match:D05809 With score: -0.770084
+D05809 Correct match at position: 0 Cost: -0.836135 Best match:D05810 With score: -0.836135
+D05810 Correct match at position: 0 Cost: -0.73571 Best match:D05811 With score: -0.73571
+D05811 Correct match at position: 0 Cost: -0.653882 Best match:D05812 With score: -0.653882
+D05812 Correct match at position: 0 Cost: -0.751224 Best match:D05813 With score: -0.751224
+D05813 Correct match at position: 0 Cost: -0.890899 Best match:D05814 With score: -0.890899
+D05814 Correct match at position: 0 Cost: -0.727898 Best match:D05815 With score: -0.727898
+D05815 Correct match at position: 0 Cost: -0.715962 Best match:D05816 With score: -0.715962
+D05816 Correct match at position: 0 Cost: -0.792845 Best match:D05817 With score: -0.792845
+D05817 Correct match at position: 0 Cost: -0.886812 Best match:D05818 With score: -0.886812
+D05818 Correct match at position: 0 Cost: -0.863603 Best match:D05819 With score: -0.863603
+D05819 Correct match at position: 0 Cost: -0.750732 Best match:D05820 With score: -0.750732
+D05820 Correct match at position: 0 Cost: -0.802793 Best match:D05821 With score: -0.802793
+D05821 Correct match at position: 0 Cost: -0.748497 Best match:D05822 With score: -0.748497
+D05822 Correct match at position: 0 Cost: -0.921207 Best match:D05823 With score: -0.921207
+D05823 Correct match at position: 0 Cost: -0.761455 Best match:D05824 With score: -0.761455
+D05824 Correct match at position: 0 Cost: -0.756128 Best match:D05825 With score: -0.756128
+D05825 Correct match at position: 0 Cost: -0.847677 Best match:D05826 With score: -0.847677
+D05826 Correct match at position: 0 Cost: -0.810998 Best match:D05827 With score: -0.810998
+D05827 Correct match at position: 0 Cost: -0.701719 Best match:D05828 With score: -0.701719
+Average: 0
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D05905 Correct match at position: 0 Cost: -0.853841 Best match:D05906 With score: -0.853841
+D05906 Correct match at position: 0 Cost: -0.751687 Best match:D05907 With score: -0.751687
+D05907 Correct match at position: 0 Cost: -0.705089 Best match:D05908 With score: -0.705089
+D05908 Correct match at position: 0 Cost: -0.854182 Best match:D05909 With score: -0.854182
+D05909 Correct match at position: 0 Cost: -0.613477 Best match:D05910 With score: -0.613477
+D05910 Correct match at position: 0 Cost: -0.831015 Best match:D05911 With score: -0.831015
+D05911 Correct match at position: 0 Cost: -0.963119 Best match:D05912 With score: -0.963119
+D05912 Correct match at position: 0 Cost: -0.831661 Best match:D05913 With score: -0.831661
+D05913 Correct match at position: 0 Cost: -0.927093 Best match:D05914 With score: -0.927093
+D05914 Correct match at position: 0 Cost: -0.799653 Best match:D05915 With score: -0.799653
+D05915 Correct match at position: 0 Cost: -0.720816 Best match:D05916 With score: -0.720816
+D05916 Correct match at position: 0 Cost: -0.760988 Best match:D05917 With score: -0.760988
+D05917 Correct match at position: 1 Cost: -0.66307 Best match:D05927 With score: -0.670127
+D05918 Correct match at position: 0 Cost: -0.793947 Best match:D05919 With score: -0.793947
+D05919 Correct match at position: 0 Cost: -0.791352 Best match:D05920 With score: -0.791352
+D05920 Correct match at position: 0 Cost: -0.679089 Best match:D05921 With score: -0.679089
+D05921 Correct match at position: 0 Cost: -0.761323 Best match:D05922 With score: -0.761323
+D05922 Correct match at position: 0 Cost: -0.923162 Best match:D05923 With score: -0.923162
+D05923 Correct match at position: 0 Cost: -0.84616 Best match:D05924 With score: -0.84616
+D05924 Correct match at position: 0 Cost: -0.905562 Best match:D05925 With score: -0.905562
+D05925 Correct match at position: 0 Cost: -0.912348 Best match:D05926 With score: -0.912348
+D05926 Correct match at position: 0 Cost: -0.776366 Best match:D05927 With score: -0.776366
+D05927 Correct match at position: 0 Cost: -0.85922 Best match:D05928 With score: -0.85922
+Average: 0.0434783
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D06005 Correct match at position: 0 Cost: -0.998474 Best match:D06006 With score: -0.998474
+D06006 Correct match at position: 0 Cost: -0.848819 Best match:D06007 With score: -0.848819
+D06007 Correct match at position: 0 Cost: -0.865557 Best match:D06008 With score: -0.865557
+D06008 Correct match at position: 0 Cost: -0.776837 Best match:D06009 With score: -0.776837
+D06009 Correct match at position: 0 Cost: -0.981639 Best match:D06010 With score: -0.981639
+D06010 Correct match at position: 0 Cost: -0.935985 Best match:D06011 With score: -0.935985
+D06011 Correct match at position: 0 Cost: -0.925203 Best match:D06012 With score: -0.925203
+D06012 Correct match at position: 0 Cost: -0.958369 Best match:D06013 With score: -0.958369
+D06013 Correct match at position: 0 Cost: -0.933356 Best match:D06014 With score: -0.933356
+D06014 Correct match at position: 0 Cost: -0.993385 Best match:D06015 With score: -0.993385
+D06015 Correct match at position: 0 Cost: -0.843204 Best match:D06016 With score: -0.843204
+D06016 Correct match at position: 0 Cost: -0.927418 Best match:D06017 With score: -0.927418
+D06017 Correct match at position: 1 Cost: -0.81391 Best match:D06015 With score: -0.833972
+D06018 Correct match at position: 0 Cost: -0.911621 Best match:D06019 With score: -0.911621
+D06019 Correct match at position: 0 Cost: -0.912367 Best match:D06020 With score: -0.912367
+D06020 Correct match at position: 0 Cost: -0.830989 Best match:D06021 With score: -0.830989
+D06021 Correct match at position: 0 Cost: -0.885736 Best match:D06022 With score: -0.885736
+D06022 Correct match at position: 0 Cost: -0.821544 Best match:D06023 With score: -0.821544
+D06023 Correct match at position: 0 Cost: -0.798794 Best match:D06024 With score: -0.798794
+D06024 Correct match at position: 0 Cost: -0.998472 Best match:D06025 With score: -0.998472
+D06025 Correct match at position: 0 Cost: -0.646225 Best match:D06026 With score: -0.646225
+D06026 Correct match at position: 1 Cost: -0.783883 Best match:D06028 With score: -0.808805
+D06027 Correct match at position: 0 Cost: -0.986649 Best match:D06028 With score: -0.986649
+Average: 0.0869565
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+could not open or find the image
+D06105 Correct match at position: 0 Cost: -0.536869 Best match:D06106 With score: -0.536869
+D06106 Correct match at position: 0 Cost: -0.852046 Best match:D06107 With score: -0.852046
+D06107 Correct match at position: 1 Cost: -0.388134 Best match:D06105 With score: -0.517512
+D06108 Correct match at position: 0 Cost: -0.692303 Best match:D06109 With score: -0.692303
+D06109 Correct match at position: 0 Cost: -0.790665 Best match:D06110 With score: -0.790665
+D06110 Correct match at position: 0 Cost: -0.682191 Best match:D06111 With score: -0.682191
+D06111 Correct match at position: 0 Cost: -0.738725 Best match:D06112 With score: -0.738725
+D06112 Correct match at position: 0 Cost: -0.73556 Best match:D06113 With score: -0.73556
+D06113 Correct match at position: 0 Cost: -0.66593 Best match:D06114 With score: -0.66593
+D06114 Correct match at position: 0 Cost: -0.677192 Best match:D06115 With score: -0.677192
+D06115 Correct match at position: 0 Cost: -0.764297 Best match:D06116 With score: -0.764297
+D06116 Correct match at position: 0 Cost: -0.668417 Best match:D06117 With score: -0.668417
+D06117 Correct match at position: 0 Cost: -0.738402 Best match:D06118 With score: -0.738402
+D06118 Correct match at position: 0 Cost: -0.753093 Best match:D06119 With score: -0.753093
+D06119 Correct match at position: 0 Cost: -0.706279 Best match:D06120 With score: -0.706279
+D06120 Correct match at position: 0 Cost: -0.664901 Best match:D06121 With score: -0.664901
+D06121 Correct match at position: 0 Cost: -0.727168 Best match:D06122 With score: -0.727168
+D06122 Correct match at position: 0 Cost: -0.597455 Best match:D06123 With score: -0.597455
+D06123 Correct match at position: 0 Cost: -0.671305 Best match:D06124 With score: -0.671305
+D06124 Correct match at position: 0 Cost: -0.644498 Best match:D06125 With score: -0.644498
+D06125 Correct match at position: 0 Cost: -0.750602 Best match:D06126 With score: -0.750602
+D06126 Correct match at position: 0 Cost: -0.704443 Best match:D06127 With score: -0.704443
+Average: 0.0454545

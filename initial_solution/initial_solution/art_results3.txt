@@ -1,0 +1,25 @@
+D001
+greedy: 0.793103
+tabu: 0.793103
+D002
+greedy: 0.777778
+tabu: 0.962963
+D003
+greedy: 0.5
+tabu: 0.75
+D004
+greedy: 0.518519
+tabu: 0.814815
+D005
+greedy: 0.482759
+tabu: 0.551724
+D006
+greedy: 0.793103
+tabu: 0.793103
+D007
+greedy: 0.444444
+tabu: 0.888889
+D008
+greedy: 0.482759
+tabu: 0.724138
+D009

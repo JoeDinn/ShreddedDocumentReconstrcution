@@ -1,0 +1,78 @@
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.68
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.428571
+tabu: 0.535714
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.72
+tabu: 0.88
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.521739
+tabu: 0.913043
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.869565
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 1
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.923077
+tabu: 0.884615
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.62963
+tabu: 0.814815
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.52
+tabu: 0.76
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 1
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.904762
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.761905
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.904762
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.952381
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.904762
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 1
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.809524
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.809524
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.904762
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.47619
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.904762
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.904762
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.714286
+tabu: 0.857143
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.761905
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 1
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D1/artificial
+greedy: 0.857143
+tabu: 1

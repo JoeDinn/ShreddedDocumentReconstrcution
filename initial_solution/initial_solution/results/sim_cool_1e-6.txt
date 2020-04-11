@@ -1,0 +1,60 @@
+D001
+greedy: 1
+sim_aneal: 1
+D002
+greedy: 0.703704
+sim_aneal: 0.962963
+D003
+greedy: 0.740741
+sim_aneal: 0.888889
+D004
+greedy: 1
+sim_aneal: 1
+D005
+greedy: 0.347826
+sim_aneal: 0.695652
+D006
+greedy: 0.384615
+sim_aneal: 0.884615
+D007
+greedy: 0.538462
+sim_aneal: 0.692308
+D008
+greedy: 0.75
+sim_aneal: 0.916667
+D009
+greedy: 0.653846
+sim_aneal: 0.653846
+D010
+greedy: 0.48
+sim_aneal: 0.52
+D011
+greedy: 0.625
+sim_aneal: 0.791667
+D012
+greedy: 0.541667
+sim_aneal: 0.833333
+D013
+greedy: 0.894737
+sim_aneal: 0.789474
+D014
+greedy: 0.541667
+sim_aneal: 0.833333
+D015
+greedy: 0.68
+sim_aneal: 0.92
+D016
+greedy: 0.391304
+sim_aneal: 0.478261
+D017
+greedy: 0.5
+sim_aneal: 0.583333
+D018
+greedy: 0.72
+sim_aneal: 0.96
+D019
+greedy: 0.347826
+sim_aneal: 0.652174
+D020
+greedy: 0.636364
+sim_aneal: 0.818182

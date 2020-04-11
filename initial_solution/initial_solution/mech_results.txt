@@ -1,0 +1,60 @@
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.92
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.518519
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.851852
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.76
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.478261
+tabu: 0.565217
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.461538
+tabu: 0.730769
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.384615
+tabu: 0.615385
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.708333
+tabu: 0.75
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.461538
+tabu: 0.653846
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.64
+tabu: 0.76
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.791667
+tabu: 0.791667
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.625
+tabu: 0.875
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.526316
+tabu: 1
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.666667
+tabu: 0.75
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.64
+tabu: 0.96
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.26087
+tabu: 0.652174
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.375
+tabu: 0.666667
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.64
+tabu: 0.84
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.391304
+tabu: 0.73913
+D:/Project/code/initial_solution/initial_solution/D2/mechanical
+greedy: 0.454545
+tabu: 0.909091

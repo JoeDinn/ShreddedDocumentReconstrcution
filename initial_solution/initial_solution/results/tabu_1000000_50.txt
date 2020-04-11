@@ -1,0 +1,60 @@
+D001
+greedy: 1
+tabu: 1
+D002
+greedy: 0.703704
+tabu: 0.814815
+D003
+greedy: 0.740741
+tabu: 1
+D004
+greedy: 1
+tabu: 1
+D005
+greedy: 0.347826
+tabu: 0.73913
+D006
+greedy: 0.307692
+tabu: 0.692308
+D007
+greedy: 0.5
+tabu: 0.692308
+D008
+greedy: 0.666667
+tabu: 0.875
+D009
+greedy: 0.576923
+tabu: 0.807692
+D010
+greedy: 0.48
+tabu: 0.68
+D011
+greedy: 0.625
+tabu: 0.791667
+D012
+greedy: 0.625
+tabu: 1
+D013
+greedy: 0.894737
+tabu: 1
+D014
+greedy: 0.541667
+tabu: 0.833333
+D015
+greedy: 0.68
+tabu: 1
+D016
+greedy: 0.391304
+tabu: 0.565217
+D017
+greedy: 0.375
+tabu: 0.625
+D018
+greedy: 0.72
+tabu: 0.96
+D019
+greedy: 0.347826
+tabu: 0.652174
+D020
+greedy: 0.636364
+tabu: 1
